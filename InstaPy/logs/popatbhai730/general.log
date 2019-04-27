@@ -1,0 +1,539 @@
+INFO [2019-01-17 08:05:44] [popatbhai730]  Session started!
+INFO [2019-01-17 08:06:48] [popatbhai730]  Logged in successfully!
+INFO [2019-01-17 08:06:48] [popatbhai730]  Saving account progress...
+INFO [2019-01-17 08:06:57] [popatbhai730]  User: 'therock'  |> followers: 128866780  |> following: 332  |> relationship ratio: 388152.95
+INFO [2019-01-17 08:06:57] [popatbhai730]  --> Not a valid user: User 'therock's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:07:01] [popatbhai730]  User: 'natgeo'  |> followers: 97532705  |> following: 133  |> relationship ratio: 733328.6
+INFO [2019-01-17 08:07:01] [popatbhai730]  --> Not a valid user: User 'natgeo's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:07:05] [popatbhai730]  User: 'badgirlriri'  |> followers: 4280  |> following: 594  |> relationship ratio: 7.2
+INFO [2019-01-17 08:07:05] [popatbhai730]  --> Not a valid user: badgirlriri is private account, by default skip
+
+INFO [2019-01-17 08:07:09] [popatbhai730]  User: 'selenagomez'  |> followers: 144447413  |> following: 49  |> relationship ratio: 2947906.38
+INFO [2019-01-17 08:07:09] [popatbhai730]  --> Not a valid user: User 'selenagomez's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:07:13] [popatbhai730]  User: 'cristiano'  |> followers: 151784115  |> following: 424  |> relationship ratio: 357981.4
+INFO [2019-01-17 08:07:13] [popatbhai730]  --> Not a valid user: User 'cristiano's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:07:13] [popatbhai730]  Finished following by List!
+
+INFO [2019-01-17 08:07:13] [popatbhai730]  Followed: 0
+INFO [2019-01-17 08:07:13] [popatbhai730]  Already followed: 0
+INFO [2019-01-17 08:07:13] [popatbhai730]  Not valid users: 5
+INFO [2019-01-17 08:07:13] [popatbhai730]  Starting to unfollow users..
+ERROR [2019-01-17 08:07:13] [popatbhai730]  Error occurred while generating a user list from the followed pool!
+	[Errno 2] No such file or directory: '/home/mitesh/git_repo/python_experiments/InstaPy/logs/popatbhai730/popatbhai730_followedPool.csv'
+INFO [2019-01-17 08:07:17] [popatbhai730]  There are less users to unfollow than you have requested:  2/84  ~using available amount
+
+INFO [2019-01-17 08:07:17] [popatbhai730]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-01-17 08:07:17] [popatbhai730]  Total 5 users available to unfollow  ~not found in 'followedPool.csv': 5  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-01-17 08:07:17] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'badgirlriri'...
+INFO [2019-01-17 08:07:21] [popatbhai730]  --> Already unfollowed 'badgirlriri'! or a private user that rejected your req
+INFO [2019-01-17 08:07:24] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'cristiano'...
+INFO [2019-01-17 08:07:27] [popatbhai730]  --> Already unfollowed 'cristiano'! or a private user that rejected your req
+INFO [2019-01-17 08:07:30] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'selenagomez'...
+INFO [2019-01-17 08:07:35] [popatbhai730]  --> Already unfollowed 'selenagomez'! or a private user that rejected your req
+INFO [2019-01-17 08:07:37] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'therock'...
+INFO [2019-01-17 08:07:41] [popatbhai730]  --> Already unfollowed 'therock'! or a private user that rejected your req
+INFO [2019-01-17 08:07:44] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'natgeo'...
+INFO [2019-01-17 08:07:49] [popatbhai730]  --> Already unfollowed 'natgeo'! or a private user that rejected your req
+INFO [2019-01-17 08:07:51] [popatbhai730]  --> Total people unfollowed : 0
+
+INFO [2019-01-17 08:07:55] [popatbhai730]  User: 'therock'  |> followers: 128866858  |> following: 332  |> relationship ratio: 388153.18
+INFO [2019-01-17 08:07:55] [popatbhai730]  --> Not a valid user: User 'therock's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:07:59] [popatbhai730]  User: 'natgeo'  |> followers: 97532725  |> following: 133  |> relationship ratio: 733328.75
+INFO [2019-01-17 08:07:59] [popatbhai730]  --> Not a valid user: User 'natgeo's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:08:02] [popatbhai730]  User: 'badgirlriri'  |> followers: 4280  |> following: 594  |> relationship ratio: 7.2
+INFO [2019-01-17 08:08:02] [popatbhai730]  --> Not a valid user: badgirlriri is private account, by default skip
+
+INFO [2019-01-17 08:08:06] [popatbhai730]  User: 'selenagomez'  |> followers: 144447405  |> following: 49  |> relationship ratio: 2947906.22
+INFO [2019-01-17 08:08:06] [popatbhai730]  --> Not a valid user: User 'selenagomez's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:08:11] [popatbhai730]  User: 'cristiano'  |> followers: 151784123  |> following: 424  |> relationship ratio: 357981.42
+INFO [2019-01-17 08:08:11] [popatbhai730]  --> Not a valid user: User 'cristiano's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:08:11] [popatbhai730]  Finished following by List!
+
+INFO [2019-01-17 08:08:11] [popatbhai730]  Followed: 0
+INFO [2019-01-17 08:08:11] [popatbhai730]  Already followed: 0
+INFO [2019-01-17 08:08:11] [popatbhai730]  Not valid users: 5
+INFO [2019-01-17 08:08:11] [popatbhai730]  Starting to unfollow users..
+ERROR [2019-01-17 08:08:11] [popatbhai730]  Error occurred while generating a user list from the followed pool!
+	[Errno 2] No such file or directory: '/home/mitesh/git_repo/python_experiments/InstaPy/logs/popatbhai730/popatbhai730_followedPool.csv'
+INFO [2019-01-17 08:08:15] [popatbhai730]  There are less users to unfollow than you have requested:  2/84  ~using available amount
+
+INFO [2019-01-17 08:08:15] [popatbhai730]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-01-17 08:08:15] [popatbhai730]  Total 5 users available to unfollow  ~not found in 'followedPool.csv': 5  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-01-17 08:08:15] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'selenagomez'...
+INFO [2019-01-17 08:08:19] [popatbhai730]  --> Already unfollowed 'selenagomez'! or a private user that rejected your req
+INFO [2019-01-17 08:08:21] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'badgirlriri'...
+INFO [2019-01-17 08:08:25] [popatbhai730]  --> Already unfollowed 'badgirlriri'! or a private user that rejected your req
+INFO [2019-01-17 08:08:27] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'natgeo'...
+INFO [2019-01-17 08:08:31] [popatbhai730]  --> Already unfollowed 'natgeo'! or a private user that rejected your req
+INFO [2019-01-17 08:08:34] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'cristiano'...
+INFO [2019-01-17 08:08:39] [popatbhai730]  --> Already unfollowed 'cristiano'! or a private user that rejected your req
+INFO [2019-01-17 08:08:42] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'therock'...
+INFO [2019-01-17 08:08:46] [popatbhai730]  --> Already unfollowed 'therock'! or a private user that rejected your req
+INFO [2019-01-17 08:08:48] [popatbhai730]  --> Total people unfollowed : 0
+
+INFO [2019-01-17 08:08:48] [popatbhai730]  User: 'therock'  |> followers: 128866893  |> following: 332  |> relationship ratio: 388153.29
+INFO [2019-01-17 08:08:48] [popatbhai730]  --> Not a valid user: User 'therock's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:08:52] [popatbhai730]  User: 'natgeo'  |> followers: 97532736  |> following: 133  |> relationship ratio: 733328.84
+INFO [2019-01-17 08:08:52] [popatbhai730]  --> Not a valid user: User 'natgeo's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:08:56] [popatbhai730]  User: 'badgirlriri'  |> followers: 4280  |> following: 594  |> relationship ratio: 7.2
+INFO [2019-01-17 08:08:56] [popatbhai730]  --> Not a valid user: badgirlriri is private account, by default skip
+
+INFO [2019-01-17 08:09:00] [popatbhai730]  User: 'selenagomez'  |> followers: 144447412  |> following: 49  |> relationship ratio: 2947906.36
+INFO [2019-01-17 08:09:00] [popatbhai730]  --> Not a valid user: User 'selenagomez's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:09:04] [popatbhai730]  User: 'cristiano'  |> followers: 151784131  |> following: 424  |> relationship ratio: 357981.44
+INFO [2019-01-17 08:09:04] [popatbhai730]  --> Not a valid user: User 'cristiano's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:09:04] [popatbhai730]  Finished following by List!
+
+INFO [2019-01-17 08:09:04] [popatbhai730]  Followed: 0
+INFO [2019-01-17 08:09:04] [popatbhai730]  Already followed: 0
+INFO [2019-01-17 08:09:04] [popatbhai730]  Not valid users: 5
+INFO [2019-01-17 08:09:04] [popatbhai730]  Starting to unfollow users..
+ERROR [2019-01-17 08:09:04] [popatbhai730]  Error occurred while generating a user list from the followed pool!
+	[Errno 2] No such file or directory: '/home/mitesh/git_repo/python_experiments/InstaPy/logs/popatbhai730/popatbhai730_followedPool.csv'
+INFO [2019-01-17 08:09:08] [popatbhai730]  There are less users to unfollow than you have requested:  2/84  ~using available amount
+
+INFO [2019-01-17 08:09:08] [popatbhai730]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-01-17 08:09:08] [popatbhai730]  Total 5 users available to unfollow  ~not found in 'followedPool.csv': 5  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-01-17 08:09:08] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'cristiano'...
+INFO [2019-01-17 08:09:12] [popatbhai730]  --> Already unfollowed 'cristiano'! or a private user that rejected your req
+INFO [2019-01-17 08:09:15] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'therock'...
+INFO [2019-01-17 08:09:19] [popatbhai730]  --> Already unfollowed 'therock'! or a private user that rejected your req
+INFO [2019-01-17 08:09:22] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'selenagomez'...
+INFO [2019-01-17 08:09:26] [popatbhai730]  --> Already unfollowed 'selenagomez'! or a private user that rejected your req
+INFO [2019-01-17 08:09:30] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'badgirlriri'...
+INFO [2019-01-17 08:09:34] [popatbhai730]  --> Already unfollowed 'badgirlriri'! or a private user that rejected your req
+INFO [2019-01-17 08:09:37] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'natgeo'...
+INFO [2019-01-17 08:09:41] [popatbhai730]  --> Already unfollowed 'natgeo'! or a private user that rejected your req
+INFO [2019-01-17 08:09:45] [popatbhai730]  --> Total people unfollowed : 0
+
+INFO [2019-01-17 08:09:49] [popatbhai730]  User: 'therock'  |> followers: 128866962  |> following: 332  |> relationship ratio: 388153.5
+INFO [2019-01-17 08:09:49] [popatbhai730]  --> Not a valid user: User 'therock's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:09:53] [popatbhai730]  User: 'natgeo'  |> followers: 97532776  |> following: 133  |> relationship ratio: 733329.14
+INFO [2019-01-17 08:09:53] [popatbhai730]  --> Not a valid user: User 'natgeo's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:09:57] [popatbhai730]  User: 'badgirlriri'  |> followers: 4280  |> following: 594  |> relationship ratio: 7.2
+INFO [2019-01-17 08:09:57] [popatbhai730]  --> Not a valid user: badgirlriri is private account, by default skip
+
+INFO [2019-01-17 08:10:01] [popatbhai730]  User: 'selenagomez'  |> followers: 144447414  |> following: 49  |> relationship ratio: 2947906.4
+INFO [2019-01-17 08:10:01] [popatbhai730]  --> Not a valid user: User 'selenagomez's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:10:05] [popatbhai730]  User: 'cristiano'  |> followers: 151784192  |> following: 424  |> relationship ratio: 357981.58
+INFO [2019-01-17 08:10:05] [popatbhai730]  --> Not a valid user: User 'cristiano's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:10:05] [popatbhai730]  Finished following by List!
+
+INFO [2019-01-17 08:10:05] [popatbhai730]  Followed: 0
+INFO [2019-01-17 08:10:05] [popatbhai730]  Already followed: 0
+INFO [2019-01-17 08:10:05] [popatbhai730]  Not valid users: 5
+INFO [2019-01-17 08:10:05] [popatbhai730]  Starting to unfollow users..
+ERROR [2019-01-17 08:10:05] [popatbhai730]  Error occurred while generating a user list from the followed pool!
+	[Errno 2] No such file or directory: '/home/mitesh/git_repo/python_experiments/InstaPy/logs/popatbhai730/popatbhai730_followedPool.csv'
+INFO [2019-01-17 08:10:09] [popatbhai730]  There are less users to unfollow than you have requested:  2/84  ~using available amount
+
+INFO [2019-01-17 08:10:09] [popatbhai730]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-01-17 08:10:09] [popatbhai730]  Total 5 users available to unfollow  ~not found in 'followedPool.csv': 5  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-01-17 08:10:09] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'selenagomez'...
+INFO [2019-01-17 08:10:13] [popatbhai730]  --> Already unfollowed 'selenagomez'! or a private user that rejected your req
+INFO [2019-01-17 08:10:16] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'badgirlriri'...
+ERROR [2019-01-17 08:10:17] [popatbhai730]  Unfollow loop error:  
+
+INFO [2019-01-17 08:10:17] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'therock'...
+ERROR [2019-01-17 08:10:17] [popatbhai730]  Unfollow loop error:  ('Connection aborted.', error(104, 'Connection reset by peer'))
+
+INFO [2019-01-17 08:10:17] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'natgeo'...
+ERROR [2019-01-17 08:10:17] [popatbhai730]  Unfollow loop error:  HTTPConnectionPool(host='127.0.0.1', port=48897): Max retries exceeded with url: /session/f6140ae021a0317e6c15031411b7de8e/execute (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1ef5924dd0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+
+INFO [2019-01-17 08:10:17] [popatbhai730]  Ongoing Unfollow [1/2]: now unfollowing 'cristiano'...
+ERROR [2019-01-17 08:10:17] [popatbhai730]  Unfollow loop error:  HTTPConnectionPool(host='127.0.0.1', port=48897): Max retries exceeded with url: /session/f6140ae021a0317e6c15031411b7de8e/execute (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1ef58ad110>: Failed to establish a new connection: [Errno 111] Connection refused',))
+
+INFO [2019-01-17 08:10:17] [popatbhai730]  --> Total people unfollowed : 0
+
+INFO [2019-01-17 08:17:02] [popatbhai730]  Session started!
+INFO [2019-01-17 08:17:13] [popatbhai730]  Logged in successfully!
+INFO [2019-01-17 08:17:13] [popatbhai730]  Saving account progress...
+INFO [2019-01-17 08:17:21] [popatbhai730]  User: 'therock'  |> followers: 128867579  |> following: 332  |> relationship ratio: 388155.35
+INFO [2019-01-17 08:17:21] [popatbhai730]  --> Not a valid user: User 'therock's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:17:24] [popatbhai730]  User: 'natgeo'  |> followers: 97533162  |> following: 133  |> relationship ratio: 733332.04
+INFO [2019-01-17 08:17:24] [popatbhai730]  --> Not a valid user: User 'natgeo's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:17:28] [popatbhai730]  User: 'badgalriri'  |> followers: 67018175  |> following: 1346  |> relationship ratio: 49790.62
+INFO [2019-01-17 08:17:28] [popatbhai730]  --> Not a valid user: User 'badgalriri's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:17:31] [popatbhai730]  User: 'selenagomez'  |> followers: 144447534  |> following: 49  |> relationship ratio: 2947908.85
+INFO [2019-01-17 08:17:31] [popatbhai730]  --> Not a valid user: User 'selenagomez's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:17:34] [popatbhai730]  User: 'cristiano'  |> followers: 151784659  |> following: 424  |> relationship ratio: 357982.68
+INFO [2019-01-17 08:17:34] [popatbhai730]  --> Not a valid user: User 'cristiano's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:17:34] [popatbhai730]  Finished following by List!
+
+INFO [2019-01-17 08:17:34] [popatbhai730]  Followed: 0
+INFO [2019-01-17 08:17:34] [popatbhai730]  Already followed: 0
+INFO [2019-01-17 08:17:34] [popatbhai730]  Not valid users: 5
+INFO [2019-01-17 08:17:35] [popatbhai730]  Sessional Live Report:
+	|> LIKED 0 images  |  ALREADY LIKED: 0
+	|> COMMENTED on 0 images
+	|> FOLLOWED 0 users  |  ALREADY FOLLOWED: 0
+	|> UNFOLLOWED 0 users
+	|> LIKED 0 comments
+	|> REPLIED to 0 comments
+	|> INAPPROPRIATE images: 0
+	|> NOT VALID users: 5
+
+On session start was FOLLOWING 2 users & had 1 FOLLOWERS
+[Session lasted 35.24 seconds]
+INFO [2019-01-17 08:17:35] [popatbhai730]  Session ended!
+INFO [2019-01-17 08:21:53] [popatbhai730]  Session started!
+INFO [2019-01-17 08:22:29] [popatbhai730]  Logged in successfully!
+INFO [2019-01-17 08:22:29] [popatbhai730]  Saving account progress...
+INFO [2019-01-17 08:22:35] [popatbhai730]  Tag [1/2]
+INFO [2019-01-17 08:22:35] [popatbhai730]  --> natgeo
+INFO [2019-01-17 08:22:46] [popatbhai730]  desired amount: 100  |  top posts [disabled]: 9  |  possible posts: 14751748
+INFO [2019-01-17 08:23:28] [popatbhai730]  [1/100]
+INFO [2019-01-17 08:23:28] [popatbhai730]  https://www.instagram.com/p/BsuDaE8lG-c/
+INFO [2019-01-17 08:23:32] [popatbhai730]  Image from: tavophotolit
+INFO [2019-01-17 08:23:32] [popatbhai730]  Link: https://www.instagram.com/p/BsuDaE8lG-c/
+INFO [2019-01-17 08:23:32] [popatbhai730]  Description: "El campamento de los gringos"
+
+Por allá en 1973, un grupo de expedición proveniente de los Estados Unidos llegaron a la Península de Paraguaná del estado Falcón, para explorar el monumento natural "Cerro Santa Ana", en búsqueda de yacimientos de uranio (elemento muy utilizado en bombas atómicas), y descubrir si dicho cerro se trataba de un volcán inactivo (debido a su singular forma). A mitad del cerro se encuentra una planicie, ideal para acampar. Los exploradores se asentaron allí. Ascendían a realizar sus pesquisas, y luego,  cuando ya caía la noche, retornaban a la planicie. Y así estuvieron al término de una semana. Sus  averiguaciones resultaron negativas respecto a los yacimientos de uranio, y lo mismo con el supuesto "volcán inactivo". Por esta razón, desde la expedición que realizaran los exploradores estadounidenses, se le llamó a aquella planicie "El campamento de los gringos".
+•
+•
+•
+[Gracias, papá por relatarme tus anécdotas de la infancia]
+.
+.
+.
+.
+.
+.
+#mountains #green #earth #nature #landscape #outdoors #travel #adventure #forest #photography #photographer #natgeo #venezuela #falcón #sky #clouds #cloudporn #cactus #botanical #garden #tree #plants #explorer #trekking #climbing #like4like #follow #instagood #vegan #wildlife
+INFO [2019-01-17 08:23:32] [popatbhai730]  Location: Cerro Santa Ana
+INFO [2019-01-17 08:23:37] [popatbhai730]  User: 'tavophotolit'  |> followers: 294  |> following: 253  |> relationship ratio: 0.86
+INFO [2019-01-17 08:23:37] [popatbhai730]  'tavophotolit' is not a massive follower with the relationship ratio of 0.86  ~skipping user
+
+INFO [2019-01-17 08:23:37] [popatbhai730]  [2/100]
+INFO [2019-01-17 08:23:37] [popatbhai730]  https://www.instagram.com/p/BsuDaBNhwBc/
+INFO [2019-01-17 08:23:41] [popatbhai730]  Image from: lindsymichael
+INFO [2019-01-17 08:23:41] [popatbhai730]  Link: https://www.instagram.com/p/BsuDaBNhwBc/
+INFO [2019-01-17 08:23:41] [popatbhai730]  Description: This winter has been absolutely beautiful, but today has me thinking of summer and new adventures 🏞 
+San Felipe, Mexico
+.
+.
+.
+.
+#canon #canoneos #canonglobal #canonsl2 #mycanonstory #wanderaround #earthpix #natgeo #natgeotravel #travel #aroundtheworld #natgeoyourshot #wanderlust #earthoutdoors #forbestravelguide #capture #dslrclub #photography #landscape #discover #love #instagood #moodygrams #ourplanet #cityscape #oceanview #mexico #baja
+INFO [2019-01-17 08:23:41] [popatbhai730]  Location: San Felipe, Baja California
+INFO [2019-01-17 08:23:45] [popatbhai730]  User: 'lindsymichael'  |> followers: 116  |> following: 55  |> relationship ratio: 0.47
+INFO [2019-01-17 08:23:45] [popatbhai730]  User 'lindsymichael's following count is less than minimum limit  ~skipping user
+
+INFO [2019-01-17 08:23:45] [popatbhai730]  [3/100]
+INFO [2019-01-17 08:23:45] [popatbhai730]  https://www.instagram.com/p/BsuDV7ch53d/
+INFO [2019-01-17 08:23:48] [popatbhai730]  Image from: ekasan95
+INFO [2019-01-17 08:23:48] [popatbhai730]  Link: https://www.instagram.com/p/BsuDV7ch53d/
+INFO [2019-01-17 08:23:48] [popatbhai730]  Description: OSAKA [JAPAN]
+.
+.
+#getlost #explorer  #optoutside #worldshotz #theworldshotz #createexplore #exploretocreate #discoverearth #travelphoto #globe_travel #japan #nihon #tokyo #japantrip #explorejapan #japantravel #bungasakura #japanesestyle #japan_daytime_view #japan_night_view #instapassport #instatraveling #igtravel #travelblog #instago #mytravelgram #travelingram #earthofficial #natgeo #nationalgeographic
+INFO [2019-01-17 08:23:54] [popatbhai730]  User: 'ekasan95'  |> followers: 79  |> following: 3  |> relationship ratio: 0.03
+INFO [2019-01-17 08:23:54] [popatbhai730]  User 'ekasan95's following count is less than minimum limit  ~skipping user
+
+INFO [2019-01-17 08:23:54] [popatbhai730]  [4/100]
+INFO [2019-01-17 08:23:54] [popatbhai730]  https://www.instagram.com/p/BsuDV2GlqvI/
+INFO [2019-01-17 08:23:57] [popatbhai730]  Image from: theamandiaries
+INFO [2019-01-17 08:23:57] [popatbhai730]  Link: https://www.instagram.com/p/BsuDV2GlqvI/
+INFO [2019-01-17 08:23:57] [popatbhai730]  Description: You never really travel alone. The world is full of friends waiting to get to know you.
+.
+.
+.
+.
+.
+.
+.
+@xiaomiindia
+#instagram #india #pictureoftheday #travel #uttarpradeshtourism #indiapictures #indiaclicks #_soi #_poi #_woi #_coi #wanderlust #streetphotography #photographers_of_india #travelstoke #instatravel #travelgram #indiagram #lucknow #incredibleindia #natgeo #natgeotravelindia #lonelyplanetindia #comment #follow
+INFO [2019-01-17 08:23:57] [popatbhai730]  Location: Shahi Baoli
+INFO [2019-01-17 08:24:02] [popatbhai730]  User: 'theamandiaries'  |> followers: 3505  |> following: 1423  |> relationship ratio: 0.4
+INFO [2019-01-17 08:24:02] [popatbhai730]  'theamandiaries' is not a massive follower with the relationship ratio of 0.4  ~skipping user
+
+INFO [2019-01-17 08:24:02] [popatbhai730]  [5/100]
+INFO [2019-01-17 08:24:02] [popatbhai730]  https://www.instagram.com/p/BsuDUr4FA3k/
+INFO [2019-01-17 08:24:05] [popatbhai730]  Image from: fershz
+INFO [2019-01-17 08:24:05] [popatbhai730]  Link: https://www.instagram.com/p/BsuDUr4FA3k/
+INFO [2019-01-17 08:24:05] [popatbhai730]  Description: México esta de moda because Mexico is suuuuuper hot! 🔥🇲🇽😎
+(1/3)
+.
+.
+.
+ #mexico #worldtravelbook #visitmexico #shotwithlove #visitmexico🇲🇽 #shotzdelight #way2will #imaginatones #1stinstinct #getlost #explorer #worldshotz #roamtheplanet #travelingram #travelstoke #natgeo #nationalgeographic #keepexploring #createexplore #photographyisart #killergrams #daylight #discoverearth #hardlight #naturaleza #birdie #createexplore #naturaleza #intothewild #nature_good  #mexicomagico #mexico_maravilloso
+INFO [2019-01-17 08:24:08] [popatbhai730]  User: 'fershz'  |> followers: 520  |> following: 408  |> relationship ratio: 0.78
+INFO [2019-01-17 08:24:08] [popatbhai730]  'fershz' is not a massive follower with the relationship ratio of 0.78  ~skipping user
+
+INFO [2019-01-17 08:24:08] [popatbhai730]  [6/100]
+INFO [2019-01-17 08:24:08] [popatbhai730]  https://www.instagram.com/p/BsuDTAjhZHL/
+INFO [2019-01-17 08:24:12] [popatbhai730]  Image from: capturedperceptions
+INFO [2019-01-17 08:24:12] [popatbhai730]  Link: https://www.instagram.com/p/BsuDTAjhZHL/
+INFO [2019-01-17 08:24:12] [popatbhai730]  Description: Forecoast|○ #sanfrancisco #sanfranciscobayarea #sanfranciscoferrybuilding #peninsula #thebaybridge #pnwonderland #embarcadero #distant #landscapephotography  #naturephotography  #visitcalifornia #getlost #explorer #optoutside #worldshotz #discoverearth  #mytravelgram #worldtravelpics #stayandwander #keepitwild #folkscenery #folkvibe #earthfocus #ourplanetdaily #natgeo #awesome_earthpix #travelstoke #experience
+INFO [2019-01-17 08:24:12] [popatbhai730]  Location: San Francisco Bay Area
+INFO [2019-01-17 08:24:16] [popatbhai730]  User: 'capturedperceptions'  |> followers: 462  |> following: 382  |> relationship ratio: 0.82
+INFO [2019-01-17 08:24:16] [popatbhai730]  'capturedperceptions' is not a massive follower with the relationship ratio of 0.82  ~skipping user
+
+INFO [2019-01-17 08:24:16] [popatbhai730]  [7/100]
+INFO [2019-01-17 08:24:16] [popatbhai730]  https://www.instagram.com/p/BsuDSRMhyqK/
+INFO [2019-01-17 08:24:20] [popatbhai730]  Image from: a_deli_sandwich_
+INFO [2019-01-17 08:24:20] [popatbhai730]  Link: https://www.instagram.com/p/BsuDSRMhyqK/
+INFO [2019-01-17 08:24:20] [popatbhai730]  Description: Cute little guy shaking off some snow from his nose ❄️🙃 #canada #arctic #arctichare #snow #powder #landscape #wildlife #wildlifephotography #justgoshoot #canon_photos #canon #natgeo #natgeoyourshot #natgeowild #instatravel #travelgram #wanderlust #wanderer #traveltheworld #planetearth #photography #canonphotography #naturephotography #ig_shotz #ig_shutterbugs #travelphotography #artofvisuals #rabbit #bunniesofinstagram
+INFO [2019-01-17 08:24:20] [popatbhai730]  Location: Churchill, Manitoba
+INFO [2019-01-17 08:24:24] [popatbhai730]  User: 'a_deli_sandwich_'  |> followers: 800  |> following: 784  |> relationship ratio: 0.98
+INFO [2019-01-17 08:24:24] [popatbhai730]  'a_deli_sandwich_' is not a massive follower with the relationship ratio of 0.98  ~skipping user
+
+INFO [2019-01-17 08:24:24] [popatbhai730]  [8/100]
+INFO [2019-01-17 08:24:24] [popatbhai730]  https://www.instagram.com/p/BsuDRsrhaoh/
+INFO [2019-01-17 08:24:27] [popatbhai730]  Image from: manu.heruz
+INFO [2019-01-17 08:24:27] [popatbhai730]  Link: https://www.instagram.com/p/BsuDRsrhaoh/
+INFO [2019-01-17 08:24:27] [popatbhai730]  Description: "I wandered this world green and wild, and the things in my mind are like a red sun go down". 🎵♩Moon Boat / Kendra Smith & The Magician's Orchestra
+
+#Mexico #mexico_amazing #unlimitedmexico #vive_mexico #natgeo #natgeolatam #oaxacacultural #tripinmexico  #legionmex #wu_mexico #mexicotravel #conoce_mexico #pasionxmexico #oaxaca #mexico_maravilloso #loves_mexico #mexicodesconocido #visitmexico #igworldclub #mexishoots #mextagram #yourshotphotographer #nature #oaxaca_bonito #ecoturismo #view_mexico #mextagram #igersoaxaca #mexicoesfotografia #sierranorteoaxaca
+INFO [2019-01-17 08:24:27] [popatbhai730]  Location: Sierra Norte
+INFO [2019-01-17 08:25:16] [popatbhai730]  Session started!
+INFO [2019-01-17 08:25:28] [popatbhai730]  Logged in successfully!
+INFO [2019-01-17 08:25:28] [popatbhai730]  Saving account progress...
+INFO [2019-01-17 08:25:31] [popatbhai730]  Tag [1/2]
+INFO [2019-01-17 08:25:31] [popatbhai730]  --> natgeo
+INFO [2019-01-17 08:25:41] [popatbhai730]  desired amount: 100  |  top posts [disabled]: 9  |  possible posts: 14751762
+INFO [2019-01-17 08:26:24] [popatbhai730]  [1/100]
+INFO [2019-01-17 08:26:24] [popatbhai730]  https://www.instagram.com/p/BsuDvdjBHS5/
+INFO [2019-01-17 08:26:28] [popatbhai730]  Image from: flathead.photography
+INFO [2019-01-17 08:26:28] [popatbhai730]  Link: https://www.instagram.com/p/BsuDvdjBHS5/
+INFO [2019-01-17 08:26:28] [popatbhai730]  Description: Cotton candy skies and inversions for daysssss 😍 who loves inversions?!
+•
+•
+•
+Photo taken by ~ @alexstrohl •
+•
+•
+Location 📍~ @skiwhitefish •
+•
+•
+•
+#wildernessvibes #flatheadphotography #glaciernationalpark #glaciernps #earth_pix #nationalparkservice #rei1440project #northwestisbest #makemoments #neverstopexploring #montanamoment #exploremore #exploretocreate #natureaddict #wildernessculture #wildernessearth #wildernesscollective #amazingplaces #beautifuldestinations #nationalparks #glaciermt #glaciernps #northwestcreatives #nationalgeographic #natgeo #vacationdestination #outdoorcollective #outboundcollective #canoncamera #nikonphoto @glacier_national_park @glaciernps @visitmontana @nationalparkservice
+INFO [2019-01-17 08:26:32] [popatbhai730]  User: 'flathead.photography'  |> followers: 10519  |> following: 374  |> relationship ratio: 0.03
+INFO [2019-01-17 08:26:32] [popatbhai730]  User 'flathead.photography's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:26:32] [popatbhai730]  [2/100]
+INFO [2019-01-17 08:26:32] [popatbhai730]  https://www.instagram.com/p/BsuDusDF67g/
+INFO [2019-01-17 08:26:35] [popatbhai730]  Image from: manipalstudios
+INFO [2019-01-17 08:26:35] [popatbhai730]  Link: https://www.instagram.com/p/BsuDusDF67g/
+INFO [2019-01-17 08:26:35] [popatbhai730]  Description: Pc @deepu_ban
+.
+.
+.
+
+#manipalstudios #udupi #manipal  #redsquarestudios #photos  #photography  #travel  #international  #global #artlife #globalart  #canvasart  #landscape  #artlove #mumbai  #indianart #hollywood #bollywood #globalphotography #canonusa #nikon #natgeo #naturelove  #lenscaptureofficial
+INFO [2019-01-17 08:26:38] [popatbhai730]  User: 'manipalstudios'  |> followers: 11807  |> following: 7404  |> relationship ratio: 0.62
+INFO [2019-01-17 08:26:38] [popatbhai730]  User 'manipalstudios's followers count exceeds maximum limit  ~skipping user
+
+INFO [2019-01-17 08:26:38] [popatbhai730]  [3/100]
+INFO [2019-01-17 08:26:38] [popatbhai730]  https://www.instagram.com/p/BsuDuQAhqKt/
+INFO [2019-01-17 08:26:42] [popatbhai730]  Image from: ekasan95
+INFO [2019-01-17 08:26:42] [popatbhai730]  Link: https://www.instagram.com/p/BsuDuQAhqKt/
+INFO [2019-01-17 08:26:42] [popatbhai730]  Description: OSAKA [JAPAN]
+.
+.
+#getlost #explorer  #optoutside #worldshotz #theworldshotz #createexplore #exploretocreate #discoverearth #travelphoto #globe_travel #japan #nihon #tokyo #japantrip #explorejapan #japantravel #tokyoskytree #japanesestyle #japan_daytime_view #japan_night_view #instapassport #instatraveling #igtravel #travelblog #instago #mytravelgram #travelingram #earthofficial #natgeo #nationalgeographic
+INFO [2019-01-17 08:26:42] [popatbhai730]  Location: Istana Osaka
+INFO [2019-01-17 08:26:46] [popatbhai730]  User: 'ekasan95'  |> followers: 82  |> following: 3  |> relationship ratio: 0.03
+INFO [2019-01-17 08:26:46] [popatbhai730]  'ekasan95' is not a massive follower with the relationship ratio of 0.03  ~skipping user
+
+INFO [2019-01-17 08:26:46] [popatbhai730]  [4/100]
+INFO [2019-01-17 08:26:46] [popatbhai730]  https://www.instagram.com/p/BsuDtwQBJ6q/
+INFO [2019-01-17 08:28:37] [popatbhai730]  Session started!
+INFO [2019-01-17 08:29:17] [popatbhai730]  Logged in successfully!
+INFO [2019-01-17 08:29:17] [popatbhai730]  Saving account progress...
+INFO [2019-01-17 08:29:21] [popatbhai730]  Tag [1/1]
+INFO [2019-01-17 08:29:21] [popatbhai730]  --> himmatnagar
+INFO [2019-01-17 08:29:33] [popatbhai730]  desired amount: 10  |  top posts [disabled]: 7  |  possible posts: 13709
+INFO [2019-01-17 08:29:41] [popatbhai730]  [1/10]
+INFO [2019-01-17 08:29:41] [popatbhai730]  https://www.instagram.com/p/Bst-Owwnqc4/
+INFO [2019-01-17 08:29:45] [popatbhai730]  Image from: kripalsinhchauhan875
+INFO [2019-01-17 08:29:45] [popatbhai730]  Link: https://www.instagram.com/p/Bst-Owwnqc4/
+INFO [2019-01-17 08:29:45] [popatbhai730]  Description: @kripalsinhchauhan875 #jaymataji🙏 #himmatnagar #raja #bapusa #bapu #bapusa #bapobapo #rajvadu👑 #havaj_a_havaj👑 #rajput #rajputana_attitude #chauhan #chauhans
+INFO [2019-01-17 08:29:45] [popatbhai730]  Location: Himatnagar
+INFO [2019-01-17 08:29:50] [popatbhai730]  User: 'kripalsinhchauhan875'  |> followers: 1523  |> following: 370  |> relationship ratio: 4.11
+INFO [2019-01-17 08:29:55] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:29:58] [popatbhai730]  --> Commented: Nicey!
+INFO [2019-01-17 08:29:59] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:30:00] [popatbhai730]  [2/10]
+INFO [2019-01-17 08:30:00] [popatbhai730]  https://www.instagram.com/p/Bss9k9iBcG5/
+INFO [2019-01-17 08:30:03] [popatbhai730]  Image from: riza_skins
+INFO [2019-01-17 08:30:03] [popatbhai730]  Link: https://www.instagram.com/p/Bss9k9iBcG5/
+INFO [2019-01-17 08:30:03] [popatbhai730]  Description: #oppo #f9 #f9pro #wrap #wrapping #skinlover #skin #newaddition #new #skins #skinzindia #lamination #himmatnagar #harun_asad
+INFO [2019-01-17 08:30:03] [popatbhai730]  Location: Riza Mobile Accessories
+INFO [2019-01-17 08:30:07] [popatbhai730]  User: 'riza_skins'  |> followers: 2019  |> following: 1399  |> relationship ratio: 1.44
+INFO [2019-01-17 08:30:11] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:30:14] [popatbhai730]  --> Not commented
+INFO [2019-01-17 08:30:15] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:30:16] [popatbhai730]  [3/10]
+INFO [2019-01-17 08:30:16] [popatbhai730]  https://www.instagram.com/p/Bss64fHBIgD/
+INFO [2019-01-17 08:30:20] [popatbhai730]  Image from: tofani_baablo
+INFO [2019-01-17 08:30:20] [popatbhai730]  Link: https://www.instagram.com/p/Bss64fHBIgD/
+INFO [2019-01-17 08:30:20] [popatbhai730]  Description: 🙁સમય સમય ની વાત છે દોસ્ત🙁
+@tofani_baablo
+#like #share #follow ​
+​@tofani_baablo
+​@tofani_baablo
+​@tofani_baablo
+​@tofani_baablo
+​
+​#Gujju #gujarati #garwi_gujarat #matrubhasha #ahmedabad #surat #baroda #anand #nadiad #valsad #himmatnagar #arvalli #sabarkantha #banaskantha #patan #vapi #dahod #kutch #bhavnagar #jamnagar #surendranagar #bhuj #dang #kathiyawadi
+INFO [2019-01-17 08:30:24] [popatbhai730]  User: 'tofani_baablo'  |> followers: 613  |> following: 178  |> relationship ratio: 3.44
+INFO [2019-01-17 08:30:29] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:30:31] [popatbhai730]  --> Not commented
+INFO [2019-01-17 08:30:32] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:30:33] [popatbhai730]  [4/10]
+INFO [2019-01-17 08:30:33] [popatbhai730]  https://www.instagram.com/p/Bss6YjNnm62/
+INFO [2019-01-17 08:30:36] [popatbhai730]  Image from: gujju_ni_bhavai_
+INFO [2019-01-17 08:30:36] [popatbhai730]  Link: https://www.instagram.com/p/Bss6YjNnm62/
+INFO [2019-01-17 08:30:36] [popatbhai730]  Description: ટેગ કરો એ પાગલ ને 😜😜
+.
+.
+.
+.
+.
+#gujaratdiaries #gujaratibablo #garvigujarat#gujjuquote #gujjugirl #gujjuswag #gujjuboy#gujju_quotes #gujju_amdavadi #ahemdabaddiaries#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #veraval #mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi #chennai#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar # #mumbai_ig#mumbaidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi#ahemdabaddiaries #ahemdabad #naliyad #anand#rajkot #gujaratdiaries #gujaratibablo #garvigujarat#gujjuquote #gujjugirl #gujjuswag #gujjuboy#gujju_quotes #gujju_amdavadi #ahemdabaddiaries#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #veraval #mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#anand #rajkot #amreli #surat #baroda#himmatnagar #udaipur #junagadh_igers #navsari#gir #diu #bhavanagar #jamanagar #veraval#mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi #chennai#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #mumbai_ig up ze
+INFO [2019-01-17 08:30:39] [popatbhai730]  User: 'gujju_ni_bhavai_'  |> followers: 4198  |> following: 2754  |> relationship ratio: 1.52
+INFO [2019-01-17 08:30:45] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:30:47] [popatbhai730]  --> Not commented
+INFO [2019-01-17 08:30:48] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:30:49] [popatbhai730]  [5/10]
+INFO [2019-01-17 08:30:49] [popatbhai730]  https://www.instagram.com/p/Bss6WpNHmp9/
+INFO [2019-01-17 08:30:52] [popatbhai730]  Image from: gujju_ni_bhavai_
+INFO [2019-01-17 08:30:52] [popatbhai730]  Link: https://www.instagram.com/p/Bss6WpNHmp9/
+INFO [2019-01-17 08:30:52] [popatbhai730]  Description: .
+.
+.
+.
+.
+.
+#gujaratdiaries #gujaratibablo #garvigujarat#gujjuquote #gujjugirl #gujjuswag #gujjuboy#gujju_quotes #gujju_amdavadi #ahemdabaddiaries#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #veraval #mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi #chennai#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar # #mumbai_ig#mumbaidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi#ahemdabaddiaries #ahemdabad #naliyad #anand#rajkot #gujaratdiaries #gujaratibablo #garvigujarat#gujjuquote #gujjugirl #gujjuswag #gujjuboy#gujju_quotes #gujju_amdavadi #ahemdabaddiaries#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #veraval #mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#anand #rajkot #amreli #surat #baroda#himmatnagar #udaipur #junagadh_igers #navsari#gir #diu #bhavanagar #jamanagar #veraval#mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi #chennai#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #mumbai_ig up ze
+INFO [2019-01-17 08:30:55] [popatbhai730]  User: 'gujju_ni_bhavai_'  |> followers: 4198  |> following: 2754  |> relationship ratio: 1.52
+INFO [2019-01-17 08:31:00] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:31:02] [popatbhai730]  --> Not commented
+INFO [2019-01-17 08:31:03] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:31:03] [popatbhai730]  [6/10]
+INFO [2019-01-17 08:31:03] [popatbhai730]  https://www.instagram.com/p/Bss0UWxHUol/
+INFO [2019-01-17 08:31:07] [popatbhai730]  Image from: mari_life_tu_6
+INFO [2019-01-17 08:31:07] [popatbhai730]  Link: https://www.instagram.com/p/Bss0UWxHUol/
+INFO [2019-01-17 08:31:07] [popatbhai730]  Description: ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+જો તમને પોસ્ટ ગમે તો લાઈક, કમેન્ટ, સેવ અને શેર કરવાનું ના ભૂલતા !!!
+.
+ટેગ કરો એમને જેમને આવી પોસ્ટ વાંચવી ગમતી હોય !!!
+.
+Follow for more :- @mari_life_tu_6
+@mari_life_tu_6 #mari_life_tu_6
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+.
+#gujjurocks #gujarati #gujju #gujjugram #gujju_no_love #prem #premi #rajkot #surat #ahemdabad #gandhinagar #himmatnagar #baroda #junagadh #jamnagar  #surendranagar  #gujjus #gujjulove  #pakkogujarati #gujjuquote #mahesana #gujratiwedding #jabro_gujarati #palanpur  #gujrat #
+INFO [2019-01-17 08:31:07] [popatbhai730]  Location: Kalol (Panchmahal)
+INFO [2019-01-17 08:31:11] [popatbhai730]  User: 'mari_life_tu_6'  |> followers: 19163  |> following: 287  |> relationship ratio: 66.77
+INFO [2019-01-17 08:31:16] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:31:19] [popatbhai730]  --> Commented: Nicey!
+INFO [2019-01-17 08:31:20] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:31:22] [popatbhai730]  [7/10]
+INFO [2019-01-17 08:31:22] [popatbhai730]  https://www.instagram.com/p/BsszYIuHBOb/
+INFO [2019-01-17 08:31:25] [popatbhai730]  Image from: mojilo_juvan
+INFO [2019-01-17 08:31:25] [popatbhai730]  Link: https://www.instagram.com/p/BsszYIuHBOb/
+INFO [2019-01-17 08:31:25] [popatbhai730]  Description: જો તમને પોસ્ટ ગમે તો લાઈક, કમેન્ટ, સેવ અને શેર કરવાનું ના ભૂલતા ..!😊
+.
+ટેગ કરો એમને જેમને આવી પોસ્ટ વાંચવી ગમતી હોય ..!🙏
+.
+👉અમારી દરેક પોસ્ટ સંપૂર્ણ કાલ્પનિક હોય છે અને તે પણ ફક્ત મનોરંજન માટે જ છે. 👉કોઈ ને કોઈ પણ પ્રકારની ઠેસ પહોંચાડવા નો અમારો ઈરાદો નથી. 👉જો Id માં કઈ સુધારા કરવા જેવું લાગે તો દિલથી મેસેજ કરીને કહી શકો છો 😊😊 👉સહકાર આપવા વિનંતી...🙏 👉અને હા પોસ્ટ📬 નોટિફિકેશન🔔 ઓન☑️ કરવાનું ચૂકતા નહીં.🆗 👉આભાર.🙏 ______________________________________________
+
+Follow for more : 
+@Mojilo_juvan
+
+@Mojilo_juvan
+
+@Mojilo_juvan ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+#gujaratdiaries #gujaratibablo #garvigujarat#gujjuquote #gujjugirl #gujjuswag #gujjuboy#gujju_quotes #gujju_amdavadi #ahemdabaddiaries#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #veraval #mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi #chennai#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar # #mumbai_ig#mumbaidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi#ahemdabaddiaries #ahemdabad #naliyad #anand#rajkot #gujaratdiaries #gujaratibablo #garvigujarat#gujjuquote #gujjugirl #gujjuswag #gujjuboy#gujju_quotes #gujju_amdavadi #ahemdabaddiaries#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #veraval #mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#anand #rajkot #amreli #surat #baroda#himmatnagar #udaipur #junagadh_igers #navsari#gir #diu #bhavanagar #jamanagar #veraval#mumbai_ig #mumbaidiaries#delhidiaries#gujaratdiaries #gujaratibablo#garvigujarat #gujjuquote #gujjugirl #gujjuswag#gujjuboy #gujju_quotes #gujju_amdavadi #chennai#ahemdabad #naliyad #anand #rajkot #amreli#surat #baroda #himmatnagar #udaipur#junagadh_igers #navsari #gir #diu #bhavanagar#jamanagar #mumbai_ig
+INFO [2019-01-17 08:31:25] [popatbhai730]  Location: લવ લોકેશન
+INFO [2019-01-17 08:31:29] [popatbhai730]  User: 'mojilo_juvan'  |> followers: 11850  |> following: 3341  |> relationship ratio: 3.54
+INFO [2019-01-17 08:31:34] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:31:36] [popatbhai730]  --> Commented: aMEIzing!
+INFO [2019-01-17 08:31:38] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:31:39] [popatbhai730]  [8/10]
+INFO [2019-01-17 08:31:39] [popatbhai730]  https://www.instagram.com/p/BsszM4iFt4E/
+INFO [2019-01-17 08:31:43] [popatbhai730]  Image from: hardikpatel_photography
+INFO [2019-01-17 08:31:43] [popatbhai730]  Link: https://www.instagram.com/p/BsszM4iFt4E/
+INFO [2019-01-17 08:31:43] [popatbhai730]  Description: ❤️Utrayan2k19 PHOTOGRAPHY ❤️#gujrat #ahmedabad #rajkot #surat #kolkata #brother #brotherlove #shootouts #canonphotography #canon5dmarkiv #jaan  #palanpur #mahesana #radhanpur #patan #fanofdishapatani #kinjaldave #gandhinagar #himmatnagar #arvalli #modasa #nikon #chocolate #junagadh #kesod #india #gujjuchu #jamnagar
+INFO [2019-01-17 08:31:43] [popatbhai730]  Location: Ahmedabad, India
+INFO [2019-01-17 08:31:47] [popatbhai730]  User: 'hardikpatel_photography'  |> followers: 172  |> following: 98  |> relationship ratio: 1.75
+INFO [2019-01-17 08:31:53] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:31:55] [popatbhai730]  --> Not commented
+INFO [2019-01-17 08:31:56] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:31:57] [popatbhai730]  [9/10]
+INFO [2019-01-17 08:31:57] [popatbhai730]  https://www.instagram.com/p/Bssxk47ltjr/
+INFO [2019-01-17 08:32:00] [popatbhai730]  Image from: hardikpatel_photography
+INFO [2019-01-17 08:32:00] [popatbhai730]  Link: https://www.instagram.com/p/Bssxk47ltjr/
+INFO [2019-01-17 08:32:00] [popatbhai730]  Description: 💟Model - @hardikpatel.official__ 💟#gujrat #ahmedabad #rajkot #surat #kolkata #brother #brotherlove #shootouts #canonphotography #canon5dmarkiv #jaan  #palanpur #mahesana #radhanpur #patan #fanofdishapatani #kinjaldave #gandhinagar #himmatnagar #arvalli #modasa #nikon #chocolate #junagadh #kesod #india #gujjuchu #jamnagar
+INFO [2019-01-17 08:32:00] [popatbhai730]  Location: Ahmedabad, India
+INFO [2019-01-17 08:32:04] [popatbhai730]  User: 'hardikpatel_photography'  |> followers: 172  |> following: 98  |> relationship ratio: 1.75
+INFO [2019-01-17 08:32:10] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:32:13] [popatbhai730]  --> Commented: aMEIzing!
+INFO [2019-01-17 08:32:14] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:32:15] [popatbhai730]  [10/10]
+INFO [2019-01-17 08:32:15] [popatbhai730]  https://www.instagram.com/p/BssxGoUFevp/
+INFO [2019-01-17 08:32:19] [popatbhai730]  Image from: mitesh__
+INFO [2019-01-17 08:32:19] [popatbhai730]  Link: https://www.instagram.com/p/BssxGoUFevp/
+INFO [2019-01-17 08:32:19] [popatbhai730]  Description: 😘😘आँखों से बरसे पानी, ये कोई बादल है क्या
+मैं तेरे लिये रोऊँ, अबे तू पागल है क्या..।।।😘😘
+#gandhinagar 
+#bhiloda 
+#himmatnagar
+INFO [2019-01-17 08:32:19] [popatbhai730]  Location: Swaminarayan Akshardham Gandhinagar
+INFO [2019-01-17 08:32:24] [popatbhai730]  User: 'mitesh__'  |> followers: 1771  |> following: 108  |> relationship ratio: 16.39
+INFO [2019-01-17 08:32:30] [popatbhai730]  --> Image Liked!
+INFO [2019-01-17 08:32:32] [popatbhai730]  --> Not commented
+INFO [2019-01-17 08:32:32] [popatbhai730]  --> Not following
+INFO [2019-01-17 08:32:33] [popatbhai730]  Tag: himmatnagar
+INFO [2019-01-17 08:32:33] [popatbhai730]  Liked: 10
+INFO [2019-01-17 08:32:33] [popatbhai730]  Already Liked: 0
+INFO [2019-01-17 08:32:33] [popatbhai730]  Commented: 4
+INFO [2019-01-17 08:32:33] [popatbhai730]  Followed: 0
+INFO [2019-01-17 08:32:33] [popatbhai730]  Inappropriate: 0
+INFO [2019-01-17 08:32:33] [popatbhai730]  Not valid users: 0
+
+INFO [2019-01-17 08:32:34] [popatbhai730]  Sessional Live Report:
+	|> LIKED 10 images  |  ALREADY LIKED: 0
+	|> COMMENTED on 4 images
+	|> FOLLOWED 0 users  |  ALREADY FOLLOWED: 0
+	|> UNFOLLOWED 0 users
+	|> LIKED 0 comments
+	|> REPLIED to 0 comments
+	|> INAPPROPRIATE images: 0
+	|> NOT VALID users: 0
+
+On session start was FOLLOWING 2 users & had 1 FOLLOWERS
+[Session lasted 3.97 minutes]
+INFO [2019-01-17 08:32:34] [popatbhai730]  Session ended!

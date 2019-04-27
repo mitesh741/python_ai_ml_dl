@@ -1,0 +1,1372 @@
+INFO [2019-01-16 23:50:01] [i_mitesh]  Session started!
+INFO [2019-01-16 23:51:41] [i_mitesh]  Session started!
+INFO [2019-02-03 17:21:38] [i_mitesh]  Session started!
+INFO [2019-02-03 17:22:41] [i_mitesh]  Logged in successfully!
+INFO [2019-02-03 17:22:41] [i_mitesh]  Saving account progress...
+INFO [2019-02-03 17:22:50] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529481  |> following: 96  |> relationship ratio: 68015.42
+INFO [2019-02-03 17:22:50] [i_mitesh]  --> Already following 'priya.p.varrier'!
+
+INFO [2019-02-03 17:22:57] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139651  |> following: 12  |> relationship ratio: 178304.25
+INFO [2019-02-03 17:22:57] [i_mitesh]  --> Already following 'anushkashettyofficial'!
+
+INFO [2019-02-03 17:23:05] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727646  |> following: 455  |> relationship ratio: 16983.83
+INFO [2019-02-03 17:23:05] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 17:23:14] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9292979  |> following: 1087  |> relationship ratio: 8549.19
+INFO [2019-02-03 17:23:14] [i_mitesh]  --> Already following 'kajalaggarwalofficial'!
+
+INFO [2019-02-03 17:23:22] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617705  |> following: 582  |> relationship ratio: 16525.26
+INFO [2019-02-03 17:23:23] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 17:23:31] [i_mitesh]  User: 'aslisona'  |> followers: 12668326  |> following: 195  |> relationship ratio: 64965.77
+INFO [2019-02-03 17:23:33] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:23:40] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:23:41] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:23:41] [i_mitesh]  Followed: 1
+INFO [2019-02-03 17:23:41] [i_mitesh]  Already followed: 5
+INFO [2019-02-03 17:23:41] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:23:41] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:23:45] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:23:45] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 5  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:23:45] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:23:56] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:24:07] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:24:17] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:24:27] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:24:38] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:24:50] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:25:01] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:25:11] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:25:22] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:25:33] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:25:44] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:25:44] [i_mitesh]  	Removed '2019-02-03 17:23 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:25:53] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:25:57] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529429  |> following: 96  |> relationship ratio: 68014.88
+INFO [2019-02-03 17:25:59] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:26:04] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:26:09] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139648  |> following: 12  |> relationship ratio: 178304.0
+INFO [2019-02-03 17:26:10] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:26:14] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:26:20] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727632  |> following: 455  |> relationship ratio: 16983.8
+INFO [2019-02-03 17:26:21] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 17:26:25] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:26:31] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9292981  |> following: 1087  |> relationship ratio: 8549.2
+INFO [2019-02-03 17:26:32] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:26:37] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 17:26:42] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617705  |> following: 582  |> relationship ratio: 16525.26
+INFO [2019-02-03 17:26:44] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 17:26:49] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 17:26:55] [i_mitesh]  User: 'aslisona'  |> followers: 12668335  |> following: 195  |> relationship ratio: 64965.82
+INFO [2019-02-03 17:26:56] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:27:00] [i_mitesh]  Total Follow: 6
+
+INFO [2019-02-03 17:27:01] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:27:01] [i_mitesh]  Followed: 6
+INFO [2019-02-03 17:27:01] [i_mitesh]  Already followed: 0
+INFO [2019-02-03 17:27:01] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:27:01] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:27:06] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:27:06] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 0  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:27:06] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:27:17] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:27:18] [i_mitesh]  	Removed '2019-02-03 17:25 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:27:26] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:27:37] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:27:37] [i_mitesh]  	Removed '2019-02-03 17:26 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:27:47] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:27:57] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:27:57] [i_mitesh]  	Removed '2019-02-03 17:26 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:28:11] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:28:21] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:28:22] [i_mitesh]  	Removed '2019-02-03 17:26 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:28:31] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:28:43] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:28:43] [i_mitesh]  	Removed '2019-02-03 17:26 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:28:53] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:29:04] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:29:04] [i_mitesh]  	Removed '2019-02-03 17:26 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:29:17] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:29:21] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529437  |> following: 96  |> relationship ratio: 68014.96
+INFO [2019-02-03 17:29:23] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:29:28] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:29:33] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139648  |> following: 12  |> relationship ratio: 178304.0
+INFO [2019-02-03 17:29:34] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:29:39] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:29:45] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727686  |> following: 455  |> relationship ratio: 16983.92
+INFO [2019-02-03 17:29:46] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 17:29:51] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:29:57] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293020  |> following: 1087  |> relationship ratio: 8549.23
+INFO [2019-02-03 17:29:58] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:30:04] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 17:30:11] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617736  |> following: 582  |> relationship ratio: 16525.31
+INFO [2019-02-03 17:30:12] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 17:30:17] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 17:30:22] [i_mitesh]  User: 'aslisona'  |> followers: 12668368  |> following: 195  |> relationship ratio: 64965.98
+INFO [2019-02-03 17:30:24] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:30:30] [i_mitesh]  Total Follow: 6
+
+INFO [2019-02-03 17:30:31] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:30:31] [i_mitesh]  Followed: 6
+INFO [2019-02-03 17:30:31] [i_mitesh]  Already followed: 0
+INFO [2019-02-03 17:30:31] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:30:31] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:30:36] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:30:36] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 0  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:30:36] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:30:46] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:30:46] [i_mitesh]  	Removed '2019-02-03 17:29 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:30:55] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:31:07] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:31:07] [i_mitesh]  	Removed '2019-02-03 17:29 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:31:19] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:31:31] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:31:31] [i_mitesh]  	Removed '2019-02-03 17:29 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:31:40] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:31:50] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:31:50] [i_mitesh]  	Removed '2019-02-03 17:29 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:31:59] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:32:08] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:32:09] [i_mitesh]  	Removed '2019-02-03 17:30 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:32:16] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:32:28] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:32:28] [i_mitesh]  	Removed '2019-02-03 17:30 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:32:37] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:32:42] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529448  |> following: 96  |> relationship ratio: 68015.08
+INFO [2019-02-03 17:32:43] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:32:50] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:32:55] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139645  |> following: 12  |> relationship ratio: 178303.75
+INFO [2019-02-03 17:32:57] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:33:01] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:33:06] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727689  |> following: 455  |> relationship ratio: 16983.93
+INFO [2019-02-03 17:33:08] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 17:33:13] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:33:18] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293031  |> following: 1087  |> relationship ratio: 8549.24
+INFO [2019-02-03 17:33:19] [i_mitesh]  --> Already following 'kajalaggarwalofficial'!
+
+INFO [2019-02-03 17:33:26] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617714  |> following: 582  |> relationship ratio: 16525.28
+INFO [2019-02-03 17:33:26] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 17:33:33] [i_mitesh]  User: 'aslisona'  |> followers: 12668363  |> following: 195  |> relationship ratio: 64965.96
+INFO [2019-02-03 17:33:34] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 17:33:37] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:33:37] [i_mitesh]  Followed: 3
+INFO [2019-02-03 17:33:37] [i_mitesh]  Already followed: 3
+INFO [2019-02-03 17:33:37] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:33:37] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:33:41] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:33:41] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 3  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:33:41] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:33:50] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:33:50] [i_mitesh]  	Removed '2019-02-03 17:32 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:34:01] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:34:13] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:34:13] [i_mitesh]  	Removed '2019-02-03 17:32 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:34:25] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:34:37] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:34:37] [i_mitesh]  	Removed '2019-02-03 17:33 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:34:48] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:35:01] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:35:11] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:35:22] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:35:30] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:35:42] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:35:54] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:35:59] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529438  |> following: 96  |> relationship ratio: 68014.97
+INFO [2019-02-03 17:35:59] [i_mitesh]  --> Already following 'priya.p.varrier'!
+
+INFO [2019-02-03 17:36:07] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139645  |> following: 12  |> relationship ratio: 178303.75
+INFO [2019-02-03 17:36:08] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:36:13] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:36:18] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727702  |> following: 455  |> relationship ratio: 16983.96
+INFO [2019-02-03 17:36:18] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 17:36:28] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293079  |> following: 1087  |> relationship ratio: 8549.29
+INFO [2019-02-03 17:36:29] [i_mitesh]  --> Already following 'kajalaggarwalofficial'!
+
+INFO [2019-02-03 17:36:36] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617753  |> following: 582  |> relationship ratio: 16525.34
+INFO [2019-02-03 17:36:37] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 17:36:44] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:36:49] [i_mitesh]  User: 'aslisona'  |> followers: 12668373  |> following: 195  |> relationship ratio: 64966.01
+INFO [2019-02-03 17:36:50] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:36:56] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:36:57] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:36:57] [i_mitesh]  Followed: 3
+INFO [2019-02-03 17:36:57] [i_mitesh]  Already followed: 3
+INFO [2019-02-03 17:36:57] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:36:57] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:37:01] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:37:01] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 3  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:37:01] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:37:13] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:37:24] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:37:34] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:37:34] [i_mitesh]  	Removed '2019-02-03 17:36 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:37:45] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:37:56] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:38:08] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:38:18] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:38:29] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:38:39] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:38:39] [i_mitesh]  	Removed '2019-02-03 17:36 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:38:50] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:39:01] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:39:01] [i_mitesh]  	Removed '2019-02-03 17:36 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:39:12] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:39:16] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529460  |> following: 96  |> relationship ratio: 68015.2
+INFO [2019-02-03 17:39:18] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:39:25] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:39:31] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139642  |> following: 12  |> relationship ratio: 178303.5
+INFO [2019-02-03 17:39:32] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:39:38] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:39:43] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727731  |> following: 455  |> relationship ratio: 16984.02
+INFO [2019-02-03 17:39:44] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 17:39:51] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:39:55] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293114  |> following: 1087  |> relationship ratio: 8549.32
+INFO [2019-02-03 17:39:57] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:40:04] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 17:40:09] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617774  |> following: 582  |> relationship ratio: 16525.38
+INFO [2019-02-03 17:40:11] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 17:40:15] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 17:40:20] [i_mitesh]  User: 'aslisona'  |> followers: 12668384  |> following: 195  |> relationship ratio: 64966.07
+INFO [2019-02-03 17:40:22] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:40:26] [i_mitesh]  Total Follow: 6
+
+INFO [2019-02-03 17:40:27] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:40:27] [i_mitesh]  Followed: 6
+INFO [2019-02-03 17:40:27] [i_mitesh]  Already followed: 0
+INFO [2019-02-03 17:40:27] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:40:27] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:40:31] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:40:31] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 0  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:40:31] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:40:43] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:40:43] [i_mitesh]  	Removed '2019-02-03 17:39 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:40:52] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:41:04] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:41:04] [i_mitesh]  	Removed '2019-02-03 17:39 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:41:12] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:41:23] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:41:23] [i_mitesh]  	Removed '2019-02-03 17:39 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:41:37] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:41:49] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:41:49] [i_mitesh]  	Removed '2019-02-03 17:39 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:41:58] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:42:10] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:42:10] [i_mitesh]  	Removed '2019-02-03 17:40 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:42:20] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:42:30] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:42:30] [i_mitesh]  	Removed '2019-02-03 17:40 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:42:43] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:42:48] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529463  |> following: 96  |> relationship ratio: 68015.23
+INFO [2019-02-03 17:42:50] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:42:55] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:43:00] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139644  |> following: 12  |> relationship ratio: 178303.66
+INFO [2019-02-03 17:43:02] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:43:05] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:43:11] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727722  |> following: 455  |> relationship ratio: 16984.0
+INFO [2019-02-03 17:43:12] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 17:43:17] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:43:23] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293131  |> following: 1087  |> relationship ratio: 8549.33
+INFO [2019-02-03 17:43:24] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:43:29] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 17:43:36] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617785  |> following: 582  |> relationship ratio: 16525.4
+INFO [2019-02-03 17:43:37] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 17:43:43] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 17:43:48] [i_mitesh]  User: 'aslisona'  |> followers: 12668398  |> following: 195  |> relationship ratio: 64966.14
+INFO [2019-02-03 17:43:49] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:43:53] [i_mitesh]  Total Follow: 6
+
+INFO [2019-02-03 17:43:54] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:43:54] [i_mitesh]  Followed: 6
+INFO [2019-02-03 17:43:54] [i_mitesh]  Already followed: 0
+INFO [2019-02-03 17:43:54] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:43:54] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:43:59] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:43:59] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 0  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:43:59] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:44:10] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:44:10] [i_mitesh]  	Removed '2019-02-03 17:42 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:44:21] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:44:33] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:44:33] [i_mitesh]  	Removed '2019-02-03 17:43 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:44:41] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:44:52] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:44:53] [i_mitesh]  	Removed '2019-02-03 17:43 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:45:05] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:45:16] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:45:16] [i_mitesh]  	Removed '2019-02-03 17:43 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:45:25] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:45:36] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:45:36] [i_mitesh]  	Removed '2019-02-03 17:43 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:45:46] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:45:57] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:45:57] [i_mitesh]  	Removed '2019-02-03 17:43 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:46:04] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:46:09] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529440  |> following: 96  |> relationship ratio: 68015.0
+INFO [2019-02-03 17:46:09] [i_mitesh]  --> Already following 'priya.p.varrier'!
+
+INFO [2019-02-03 17:46:19] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139639  |> following: 12  |> relationship ratio: 178303.25
+INFO [2019-02-03 17:46:19] [i_mitesh]  --> Already following 'anushkashettyofficial'!
+
+INFO [2019-02-03 17:46:26] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727732  |> following: 455  |> relationship ratio: 16984.02
+INFO [2019-02-03 17:46:26] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 17:46:37] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293155  |> following: 1087  |> relationship ratio: 8549.36
+INFO [2019-02-03 17:46:38] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:46:42] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:46:47] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617798  |> following: 582  |> relationship ratio: 16525.42
+INFO [2019-02-03 17:46:47] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 17:46:57] [i_mitesh]  User: 'aslisona'  |> followers: 12668384  |> following: 195  |> relationship ratio: 64966.07
+INFO [2019-02-03 17:46:57] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 17:47:00] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:47:00] [i_mitesh]  Followed: 1
+INFO [2019-02-03 17:47:00] [i_mitesh]  Already followed: 5
+INFO [2019-02-03 17:47:00] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:47:00] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:47:05] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:47:05] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 5  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:47:05] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:47:17] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:47:25] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:47:37] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:47:50] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:47:59] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:48:08] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:48:21] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:48:21] [i_mitesh]  	Removed '2019-02-03 17:46 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:48:34] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:48:43] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:48:55] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:49:06] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:49:16] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:49:20] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529440  |> following: 96  |> relationship ratio: 68015.0
+INFO [2019-02-03 17:49:22] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:49:28] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:49:34] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139640  |> following: 12  |> relationship ratio: 178303.33
+INFO [2019-02-03 17:49:36] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:49:40] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:49:45] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727764  |> following: 455  |> relationship ratio: 16984.09
+INFO [2019-02-03 17:49:45] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 17:49:53] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293195  |> following: 1087  |> relationship ratio: 8549.39
+INFO [2019-02-03 17:49:55] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:50:00] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:50:06] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617824  |> following: 582  |> relationship ratio: 16525.47
+INFO [2019-02-03 17:50:07] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 17:50:13] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 17:50:18] [i_mitesh]  User: 'aslisona'  |> followers: 12668409  |> following: 195  |> relationship ratio: 64966.2
+INFO [2019-02-03 17:50:19] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:50:26] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 17:50:27] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:50:27] [i_mitesh]  Followed: 5
+INFO [2019-02-03 17:50:27] [i_mitesh]  Already followed: 1
+INFO [2019-02-03 17:50:27] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:50:27] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:50:32] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:50:32] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 1  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:50:32] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:50:43] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:50:43] [i_mitesh]  	Removed '2019-02-03 17:49 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:50:53] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:51:04] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:51:04] [i_mitesh]  	Removed '2019-02-03 17:49 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:51:17] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:51:29] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:51:37] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:51:49] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:51:49] [i_mitesh]  	Removed '2019-02-03 17:49 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:51:59] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:52:12] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:52:12] [i_mitesh]  	Removed '2019-02-03 17:50 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:52:26] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:52:39] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:52:40] [i_mitesh]  	Removed '2019-02-03 17:50 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:52:49] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:52:54] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529448  |> following: 96  |> relationship ratio: 68015.08
+INFO [2019-02-03 17:52:56] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:53:00] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:53:05] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139638  |> following: 12  |> relationship ratio: 178303.16
+INFO [2019-02-03 17:53:06] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:53:11] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:53:16] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727790  |> following: 455  |> relationship ratio: 16984.15
+INFO [2019-02-03 17:53:18] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 17:53:22] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:53:28] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293207  |> following: 1087  |> relationship ratio: 8549.4
+INFO [2019-02-03 17:53:29] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:53:34] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 17:53:40] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617842  |> following: 582  |> relationship ratio: 16525.5
+INFO [2019-02-03 17:53:41] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 17:53:46] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 17:53:52] [i_mitesh]  User: 'aslisona'  |> followers: 12668439  |> following: 195  |> relationship ratio: 64966.35
+INFO [2019-02-03 17:53:53] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:53:57] [i_mitesh]  Total Follow: 6
+
+INFO [2019-02-03 17:53:58] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:53:58] [i_mitesh]  Followed: 6
+INFO [2019-02-03 17:53:58] [i_mitesh]  Already followed: 0
+INFO [2019-02-03 17:53:58] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:53:58] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:54:03] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:54:03] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 0  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:54:03] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:54:13] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:54:14] [i_mitesh]  	Removed '2019-02-03 17:52 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:54:25] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:54:37] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:54:37] [i_mitesh]  	Removed '2019-02-03 17:53 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:54:49] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:55:01] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:55:01] [i_mitesh]  	Removed '2019-02-03 17:53 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:55:11] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:55:21] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:55:22] [i_mitesh]  	Removed '2019-02-03 17:53 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:55:30] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:55:42] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:55:42] [i_mitesh]  	Removed '2019-02-03 17:53 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:55:51] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:56:02] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:56:02] [i_mitesh]  	Removed '2019-02-03 17:53 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:56:14] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:56:19] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529428  |> following: 96  |> relationship ratio: 68014.87
+INFO [2019-02-03 17:56:20] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 17:56:27] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 17:56:32] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139637  |> following: 12  |> relationship ratio: 178303.08
+INFO [2019-02-03 17:56:34] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 17:56:38] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 17:56:44] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727795  |> following: 455  |> relationship ratio: 16984.16
+INFO [2019-02-03 17:56:45] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 17:56:49] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 17:56:55] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293244  |> following: 1087  |> relationship ratio: 8549.44
+INFO [2019-02-03 17:56:55] [i_mitesh]  --> Already following 'kajalaggarwalofficial'!
+
+INFO [2019-02-03 17:57:03] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617851  |> following: 582  |> relationship ratio: 16525.51
+INFO [2019-02-03 17:57:03] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 17:57:11] [i_mitesh]  User: 'aslisona'  |> followers: 12668434  |> following: 195  |> relationship ratio: 64966.32
+INFO [2019-02-03 17:57:12] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 17:57:16] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 17:57:17] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 17:57:17] [i_mitesh]  Followed: 4
+INFO [2019-02-03 17:57:17] [i_mitesh]  Already followed: 2
+INFO [2019-02-03 17:57:17] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 17:57:17] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 17:57:22] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 17:57:22] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 2  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 17:57:22] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 17:57:32] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 17:57:32] [i_mitesh]  	Removed '2019-02-03 17:56 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:57:42] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 17:57:53] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 17:57:53] [i_mitesh]  	Removed '2019-02-03 17:56 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:58:03] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 17:58:14] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 17:58:14] [i_mitesh]  	Removed '2019-02-03 17:56 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:58:26] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 17:58:38] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 17:58:45] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 17:58:56] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 17:59:09] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 17:59:20] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 17:59:20] [i_mitesh]  	Removed '2019-02-03 17:57 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 17:59:32] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 17:59:36] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529431  |> following: 96  |> relationship ratio: 68014.9
+INFO [2019-02-03 17:59:37] [i_mitesh]  --> Already following 'priya.p.varrier'!
+
+INFO [2019-02-03 17:59:44] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139641  |> following: 12  |> relationship ratio: 178303.41
+INFO [2019-02-03 17:59:45] [i_mitesh]  --> Already following 'anushkashettyofficial'!
+
+INFO [2019-02-03 17:59:52] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727789  |> following: 455  |> relationship ratio: 16984.15
+INFO [2019-02-03 17:59:53] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:00:00] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:00:05] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293257  |> following: 1087  |> relationship ratio: 8549.45
+INFO [2019-02-03 18:00:06] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:00:12] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:00:19] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617862  |> following: 582  |> relationship ratio: 16525.53
+INFO [2019-02-03 18:00:19] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 18:00:28] [i_mitesh]  User: 'aslisona'  |> followers: 12668473  |> following: 195  |> relationship ratio: 64966.52
+INFO [2019-02-03 18:00:30] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:00:35] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:00:36] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:00:36] [i_mitesh]  Followed: 3
+INFO [2019-02-03 18:00:36] [i_mitesh]  Already followed: 3
+INFO [2019-02-03 18:00:36] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:00:36] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:00:40] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:00:40] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 3  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:00:40] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:00:51] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:01:00] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:01:12] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:01:23] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:01:32] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:01:32] [i_mitesh]  	Removed '2019-02-03 17:59 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:01:42] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:01:54] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:01:54] [i_mitesh]  	Removed '2019-02-03 18:00 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:02:03] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:02:15] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:02:24] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:02:36] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:02:36] [i_mitesh]  	Removed '2019-02-03 18:00 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:02:45] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:02:50] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529440  |> following: 96  |> relationship ratio: 68015.0
+INFO [2019-02-03 18:02:51] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:02:58] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:03:04] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139638  |> following: 12  |> relationship ratio: 178303.16
+INFO [2019-02-03 18:03:05] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:03:09] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:03:15] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727799  |> following: 455  |> relationship ratio: 16984.17
+INFO [2019-02-03 18:03:17] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:03:21] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:03:27] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293301  |> following: 1087  |> relationship ratio: 8549.49
+INFO [2019-02-03 18:03:27] [i_mitesh]  --> Already following 'kajalaggarwalofficial'!
+
+INFO [2019-02-03 18:03:37] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617907  |> following: 582  |> relationship ratio: 16525.61
+INFO [2019-02-03 18:03:39] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:03:43] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:03:48] [i_mitesh]  User: 'aslisona'  |> followers: 12668494  |> following: 195  |> relationship ratio: 64966.63
+INFO [2019-02-03 18:03:49] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:03:54] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:03:55] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:03:55] [i_mitesh]  Followed: 5
+INFO [2019-02-03 18:03:55] [i_mitesh]  Already followed: 1
+INFO [2019-02-03 18:03:55] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:03:55] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:04:00] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:04:00] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 1  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:04:00] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:04:08] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:04:09] [i_mitesh]  	Removed '2019-02-03 18:02 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:04:19] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:04:29] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:04:29] [i_mitesh]  	Removed '2019-02-03 18:03 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:04:42] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:04:53] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:04:54] [i_mitesh]  	Removed '2019-02-03 18:03 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:05:01] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:05:12] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:05:23] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:05:35] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:05:35] [i_mitesh]  	Removed '2019-02-03 18:03 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:05:43] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:05:55] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:05:55] [i_mitesh]  	Removed '2019-02-03 18:03 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:06:04] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:06:09] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529458  |> following: 96  |> relationship ratio: 68015.18
+INFO [2019-02-03 18:06:11] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:06:15] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:06:21] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139639  |> following: 12  |> relationship ratio: 178303.25
+INFO [2019-02-03 18:06:22] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:06:27] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:06:33] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727830  |> following: 455  |> relationship ratio: 16984.24
+INFO [2019-02-03 18:06:34] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:06:38] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:06:43] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293303  |> following: 1087  |> relationship ratio: 8549.49
+INFO [2019-02-03 18:06:45] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:06:49] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:06:55] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617919  |> following: 582  |> relationship ratio: 16525.63
+INFO [2019-02-03 18:06:57] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:07:02] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:07:07] [i_mitesh]  User: 'aslisona'  |> followers: 12668521  |> following: 195  |> relationship ratio: 64966.77
+INFO [2019-02-03 18:07:09] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:07:14] [i_mitesh]  Total Follow: 6
+
+INFO [2019-02-03 18:07:15] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:07:15] [i_mitesh]  Followed: 6
+INFO [2019-02-03 18:07:15] [i_mitesh]  Already followed: 0
+INFO [2019-02-03 18:07:15] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:07:15] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:07:19] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:07:19] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 0  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:07:19] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:07:31] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:07:31] [i_mitesh]  	Removed '2019-02-03 18:06 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:07:42] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:07:54] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:07:54] [i_mitesh]  	Removed '2019-02-03 18:06 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:08:04] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:08:15] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:08:15] [i_mitesh]  	Removed '2019-02-03 18:06 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:08:25] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:08:35] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:08:35] [i_mitesh]  	Removed '2019-02-03 18:06 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:08:45] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:08:58] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:08:58] [i_mitesh]  	Removed '2019-02-03 18:06 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:09:11] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:09:22] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:09:22] [i_mitesh]  	Removed '2019-02-03 18:07 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:09:31] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:09:35] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529452  |> following: 96  |> relationship ratio: 68015.12
+INFO [2019-02-03 18:09:37] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:09:45] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:09:49] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139640  |> following: 12  |> relationship ratio: 178303.33
+INFO [2019-02-03 18:09:49] [i_mitesh]  --> Already following 'anushkashettyofficial'!
+
+INFO [2019-02-03 18:09:58] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727841  |> following: 455  |> relationship ratio: 16984.26
+INFO [2019-02-03 18:09:58] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 18:10:05] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293322  |> following: 1087  |> relationship ratio: 8549.51
+INFO [2019-02-03 18:10:05] [i_mitesh]  --> Already following 'kajalaggarwalofficial'!
+
+INFO [2019-02-03 18:10:12] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617936  |> following: 582  |> relationship ratio: 16525.66
+INFO [2019-02-03 18:10:13] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 18:10:22] [i_mitesh]  User: 'aslisona'  |> followers: 12668545  |> following: 195  |> relationship ratio: 64966.89
+INFO [2019-02-03 18:10:23] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:10:28] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:10:29] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:10:29] [i_mitesh]  Followed: 2
+INFO [2019-02-03 18:10:29] [i_mitesh]  Already followed: 4
+INFO [2019-02-03 18:10:29] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:10:29] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:10:34] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:10:34] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 4  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:10:34] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:10:45] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:10:45] [i_mitesh]  	Removed '2019-02-03 18:09 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:10:57] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:11:08] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:11:18] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:11:28] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:11:40] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:11:52] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:12:02] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:12:12] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:12:24] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:12:35] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:12:35] [i_mitesh]  	Removed '2019-02-03 18:10 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:12:45] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:12:50] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529448  |> following: 96  |> relationship ratio: 68015.08
+INFO [2019-02-03 18:12:51] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:12:56] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:13:01] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139641  |> following: 12  |> relationship ratio: 178303.41
+INFO [2019-02-03 18:13:03] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:13:08] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:13:14] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727829  |> following: 455  |> relationship ratio: 16984.23
+INFO [2019-02-03 18:13:16] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:13:21] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:13:27] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293310  |> following: 1087  |> relationship ratio: 8549.5
+INFO [2019-02-03 18:13:27] [i_mitesh]  --> Already following 'kajalaggarwalofficial'!
+
+INFO [2019-02-03 18:13:35] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617951  |> following: 582  |> relationship ratio: 16525.68
+INFO [2019-02-03 18:13:37] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:13:41] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:13:46] [i_mitesh]  User: 'aslisona'  |> followers: 12668547  |> following: 195  |> relationship ratio: 64966.9
+INFO [2019-02-03 18:13:48] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:13:52] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:13:53] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:13:53] [i_mitesh]  Followed: 5
+INFO [2019-02-03 18:13:53] [i_mitesh]  Already followed: 1
+INFO [2019-02-03 18:13:53] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:13:53] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:13:57] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:13:57] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 1  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:13:57] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:14:10] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:14:10] [i_mitesh]  	Removed '2019-02-03 18:12 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:14:23] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:14:35] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:14:35] [i_mitesh]  	Removed '2019-02-03 18:13 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:14:45] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:14:56] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:14:56] [i_mitesh]  	Removed '2019-02-03 18:13 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:15:04] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:15:15] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:15:28] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:15:39] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:15:39] [i_mitesh]  	Removed '2019-02-03 18:13 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:15:51] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:16:01] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:16:01] [i_mitesh]  	Removed '2019-02-03 18:13 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:16:10] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:16:14] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529433  |> following: 96  |> relationship ratio: 68014.92
+INFO [2019-02-03 18:16:15] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:16:21] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:16:26] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139642  |> following: 12  |> relationship ratio: 178303.5
+INFO [2019-02-03 18:16:28] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:16:32] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:16:37] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727849  |> following: 455  |> relationship ratio: 16984.28
+INFO [2019-02-03 18:16:37] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 18:16:47] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293331  |> following: 1087  |> relationship ratio: 8549.52
+INFO [2019-02-03 18:16:48] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:16:52] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:16:58] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617974  |> following: 582  |> relationship ratio: 16525.72
+INFO [2019-02-03 18:17:00] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:17:05] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:17:11] [i_mitesh]  User: 'aslisona'  |> followers: 12668565  |> following: 195  |> relationship ratio: 64967.0
+INFO [2019-02-03 18:17:12] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:17:16] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:17:17] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:17:17] [i_mitesh]  Followed: 5
+INFO [2019-02-03 18:17:17] [i_mitesh]  Already followed: 1
+INFO [2019-02-03 18:17:17] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:17:17] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:17:22] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:17:22] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 1  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:17:22] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:17:33] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:17:34] [i_mitesh]  	Removed '2019-02-03 18:16 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:17:45] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:17:56] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:17:56] [i_mitesh]  	Removed '2019-02-03 18:16 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:18:07] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:18:20] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:18:32] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:18:44] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:18:45] [i_mitesh]  	Removed '2019-02-03 18:16 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:18:55] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:19:07] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:19:07] [i_mitesh]  	Removed '2019-02-03 18:17 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:19:16] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:19:27] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:19:27] [i_mitesh]  	Removed '2019-02-03 18:17 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:19:36] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:19:41] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529432  |> following: 96  |> relationship ratio: 68014.91
+INFO [2019-02-03 18:19:42] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:19:47] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:19:53] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139641  |> following: 12  |> relationship ratio: 178303.41
+INFO [2019-02-03 18:19:54] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:19:58] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:20:03] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727861  |> following: 455  |> relationship ratio: 16984.3
+INFO [2019-02-03 18:20:05] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:20:09] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:20:15] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293352  |> following: 1087  |> relationship ratio: 8549.54
+INFO [2019-02-03 18:20:16] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:20:21] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:20:26] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9617994  |> following: 582  |> relationship ratio: 16525.76
+INFO [2019-02-03 18:20:26] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 18:20:35] [i_mitesh]  User: 'aslisona'  |> followers: 12668572  |> following: 195  |> relationship ratio: 64967.03
+INFO [2019-02-03 18:20:35] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 18:20:39] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:20:39] [i_mitesh]  Followed: 4
+INFO [2019-02-03 18:20:39] [i_mitesh]  Already followed: 2
+INFO [2019-02-03 18:20:39] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:20:39] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:20:44] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:20:44] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 2  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:20:44] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:20:55] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:20:55] [i_mitesh]  	Removed '2019-02-03 18:19 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:21:06] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:21:18] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:21:18] [i_mitesh]  	Removed '2019-02-03 18:19 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:21:28] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:21:39] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:21:39] [i_mitesh]  	Removed '2019-02-03 18:20 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:21:50] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:22:02] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:22:02] [i_mitesh]  	Removed '2019-02-03 18:20 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:22:11] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:22:21] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:22:33] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:22:45] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:22:54] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:22:59] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529447  |> following: 96  |> relationship ratio: 68015.07
+INFO [2019-02-03 18:23:00] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:23:06] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:23:11] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139641  |> following: 12  |> relationship ratio: 178303.41
+INFO [2019-02-03 18:23:12] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:23:18] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:23:24] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727884  |> following: 455  |> relationship ratio: 16984.36
+INFO [2019-02-03 18:23:24] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 18:23:31] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293369  |> following: 1087  |> relationship ratio: 8549.55
+INFO [2019-02-03 18:23:32] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:23:38] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:23:43] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618009  |> following: 582  |> relationship ratio: 16525.78
+INFO [2019-02-03 18:23:45] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:23:50] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:23:55] [i_mitesh]  User: 'aslisona'  |> followers: 12668589  |> following: 195  |> relationship ratio: 64967.12
+INFO [2019-02-03 18:23:55] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 18:23:59] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:23:59] [i_mitesh]  Followed: 4
+INFO [2019-02-03 18:23:59] [i_mitesh]  Already followed: 2
+INFO [2019-02-03 18:23:59] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:23:59] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:24:04] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:24:04] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 2  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:24:04] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:24:15] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:24:15] [i_mitesh]  	Removed '2019-02-03 18:23 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:24:20] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:24:31] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:24:31] [i_mitesh]  	Removed '2019-02-03 18:23 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:24:40] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:24:52] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:25:04] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:25:15] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:25:15] [i_mitesh]  	Removed '2019-02-03 18:23 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:25:26] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:25:36] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:25:36] [i_mitesh]  	Removed '2019-02-03 18:23 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:25:49] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:26:00] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:26:12] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:26:16] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529458  |> following: 96  |> relationship ratio: 68015.18
+INFO [2019-02-03 18:26:17] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:26:22] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:26:26] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139639  |> following: 12  |> relationship ratio: 178303.25
+INFO [2019-02-03 18:26:28] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:26:33] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:26:39] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727898  |> following: 455  |> relationship ratio: 16984.39
+INFO [2019-02-03 18:26:39] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 18:26:46] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293388  |> following: 1087  |> relationship ratio: 8549.57
+INFO [2019-02-03 18:26:48] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:26:53] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:26:58] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618005  |> following: 582  |> relationship ratio: 16525.78
+INFO [2019-02-03 18:27:00] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:27:06] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:27:12] [i_mitesh]  User: 'aslisona'  |> followers: 12668610  |> following: 195  |> relationship ratio: 64967.23
+INFO [2019-02-03 18:27:12] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 18:27:15] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:27:15] [i_mitesh]  Followed: 4
+INFO [2019-02-03 18:27:15] [i_mitesh]  Already followed: 2
+INFO [2019-02-03 18:27:15] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:27:15] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:27:20] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:27:20] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 2  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:27:20] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:27:33] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:27:33] [i_mitesh]  	Removed '2019-02-03 18:26 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:27:42] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:27:53] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:27:53] [i_mitesh]  	Removed '2019-02-03 18:26 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:28:00] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:28:11] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:28:19] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:28:31] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:28:31] [i_mitesh]  	Removed '2019-02-03 18:26 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:28:41] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:28:53] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:28:53] [i_mitesh]  	Removed '2019-02-03 18:27 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:29:04] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:29:16] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:29:28] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:29:33] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529456  |> following: 96  |> relationship ratio: 68015.16
+INFO [2019-02-03 18:29:34] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:29:38] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:29:45] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139638  |> following: 12  |> relationship ratio: 178303.16
+INFO [2019-02-03 18:29:46] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:29:52] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:29:57] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727919  |> following: 455  |> relationship ratio: 16984.43
+INFO [2019-02-03 18:29:58] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:30:05] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:30:11] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293381  |> following: 1087  |> relationship ratio: 8549.56
+INFO [2019-02-03 18:30:12] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:30:16] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:30:22] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618026  |> following: 582  |> relationship ratio: 16525.81
+INFO [2019-02-03 18:30:23] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:30:27] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:30:33] [i_mitesh]  User: 'aslisona'  |> followers: 12668615  |> following: 195  |> relationship ratio: 64967.25
+INFO [2019-02-03 18:30:34] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:30:39] [i_mitesh]  Total Follow: 6
+
+INFO [2019-02-03 18:30:40] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:30:40] [i_mitesh]  Followed: 6
+INFO [2019-02-03 18:30:40] [i_mitesh]  Already followed: 0
+INFO [2019-02-03 18:30:40] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:30:40] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:30:46] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:30:46] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 0  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:30:46] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:30:56] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:30:56] [i_mitesh]  	Removed '2019-02-03 18:29 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:31:07] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:31:19] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:31:19] [i_mitesh]  	Removed '2019-02-03 18:29 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:31:29] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:31:41] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:31:41] [i_mitesh]  	Removed '2019-02-03 18:29 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:31:51] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:32:02] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:32:03] [i_mitesh]  	Removed '2019-02-03 18:30 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:32:11] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:32:22] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:32:22] [i_mitesh]  	Removed '2019-02-03 18:30 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:32:34] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:32:46] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:32:46] [i_mitesh]  	Removed '2019-02-03 18:30 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:32:53] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:32:57] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529452  |> following: 96  |> relationship ratio: 68015.12
+INFO [2019-02-03 18:32:59] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:33:03] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:33:08] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139636  |> following: 12  |> relationship ratio: 178303.0
+INFO [2019-02-03 18:33:09] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:33:16] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:33:22] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727923  |> following: 455  |> relationship ratio: 16984.44
+INFO [2019-02-03 18:33:22] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 18:33:31] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293410  |> following: 1087  |> relationship ratio: 8549.59
+INFO [2019-02-03 18:33:33] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:33:40] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:33:45] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618069  |> following: 582  |> relationship ratio: 16525.89
+INFO [2019-02-03 18:33:45] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 18:33:54] [i_mitesh]  User: 'aslisona'  |> followers: 12668626  |> following: 195  |> relationship ratio: 64967.31
+INFO [2019-02-03 18:33:55] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 18:33:58] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:33:58] [i_mitesh]  Followed: 3
+INFO [2019-02-03 18:33:58] [i_mitesh]  Already followed: 3
+INFO [2019-02-03 18:33:58] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:33:58] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:34:03] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:34:03] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 3  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:34:03] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:34:14] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:34:14] [i_mitesh]  	Removed '2019-02-03 18:32 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:34:20] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:34:30] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:34:30] [i_mitesh]  	Removed '2019-02-03 18:33 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:34:38] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:34:49] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:34:58] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:35:11] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:35:11] [i_mitesh]  	Removed '2019-02-03 18:33 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:35:18] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:35:29] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:35:39] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:35:50] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:35:59] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:36:04] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529458  |> following: 96  |> relationship ratio: 68015.18
+INFO [2019-02-03 18:36:05] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:36:10] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:36:15] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139637  |> following: 12  |> relationship ratio: 178303.08
+INFO [2019-02-03 18:36:17] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:36:24] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:36:29] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727940  |> following: 455  |> relationship ratio: 16984.48
+INFO [2019-02-03 18:36:29] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 18:36:37] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293416  |> following: 1087  |> relationship ratio: 8549.6
+INFO [2019-02-03 18:36:39] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:36:43] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:36:49] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618068  |> following: 582  |> relationship ratio: 16525.89
+INFO [2019-02-03 18:36:50] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:36:54] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:37:00] [i_mitesh]  User: 'aslisona'  |> followers: 12668619  |> following: 195  |> relationship ratio: 64967.27
+INFO [2019-02-03 18:37:00] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 18:37:03] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:37:03] [i_mitesh]  Followed: 4
+INFO [2019-02-03 18:37:03] [i_mitesh]  Already followed: 2
+INFO [2019-02-03 18:37:03] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:37:03] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:37:08] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:37:08] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 2  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:37:08] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:37:19] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:37:19] [i_mitesh]  	Removed '2019-02-03 18:36 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:37:31] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:37:41] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:37:41] [i_mitesh]  	Removed '2019-02-03 18:36 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:37:52] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:38:06] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:38:18] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:38:31] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:38:31] [i_mitesh]  	Removed '2019-02-03 18:36 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:38:42] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:38:53] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:38:53] [i_mitesh]  	Removed '2019-02-03 18:36 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:39:07] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:39:20] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:39:28] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:39:33] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529479  |> following: 96  |> relationship ratio: 68015.4
+INFO [2019-02-03 18:39:34] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:39:39] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:39:44] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139642  |> following: 12  |> relationship ratio: 178303.5
+INFO [2019-02-03 18:39:46] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:39:51] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:39:58] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727949  |> following: 455  |> relationship ratio: 16984.5
+INFO [2019-02-03 18:40:00] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:40:05] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:40:11] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293426  |> following: 1087  |> relationship ratio: 8549.6
+INFO [2019-02-03 18:40:12] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:40:17] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:40:23] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618086  |> following: 582  |> relationship ratio: 16525.92
+INFO [2019-02-03 18:40:23] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 18:40:33] [i_mitesh]  User: 'aslisona'  |> followers: 12668634  |> following: 195  |> relationship ratio: 64967.35
+INFO [2019-02-03 18:40:34] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:40:39] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:40:41] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:40:41] [i_mitesh]  Followed: 5
+INFO [2019-02-03 18:40:41] [i_mitesh]  Already followed: 1
+INFO [2019-02-03 18:40:41] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:40:41] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:40:45] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:40:45] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 1  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:40:45] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:40:54] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:40:54] [i_mitesh]  	Removed '2019-02-03 18:39 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:41:05] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:41:16] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:41:16] [i_mitesh]  	Removed '2019-02-03 18:39 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:41:27] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:41:39] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:41:39] [i_mitesh]  	Removed '2019-02-03 18:40 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:41:47] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:41:58] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:41:58] [i_mitesh]  	Removed '2019-02-03 18:40 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:42:07] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:42:18] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:42:27] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:42:38] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:42:38] [i_mitesh]  	Removed '2019-02-03 18:40 ~ aslisona ~ 1097866395' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:42:47] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:42:52] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529505  |> following: 96  |> relationship ratio: 68015.67
+INFO [2019-02-03 18:42:54] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:43:00] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:43:05] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139645  |> following: 12  |> relationship ratio: 178303.75
+INFO [2019-02-03 18:43:07] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:43:14] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:43:19] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727966  |> following: 455  |> relationship ratio: 16984.54
+INFO [2019-02-03 18:43:20] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:43:27] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:43:32] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293469  |> following: 1087  |> relationship ratio: 8549.64
+INFO [2019-02-03 18:43:34] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:43:39] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:43:45] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618099  |> following: 582  |> relationship ratio: 16525.94
+INFO [2019-02-03 18:43:46] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:43:51] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:43:56] [i_mitesh]  User: 'aslisona'  |> followers: 12668649  |> following: 195  |> relationship ratio: 64967.43
+INFO [2019-02-03 18:43:56] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 18:44:01] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:44:01] [i_mitesh]  Followed: 5
+INFO [2019-02-03 18:44:01] [i_mitesh]  Already followed: 1
+INFO [2019-02-03 18:44:01] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:44:01] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:44:06] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:44:06] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 1  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:44:06] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:44:18] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:44:18] [i_mitesh]  	Removed '2019-02-03 18:42 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:44:26] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:44:38] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:44:38] [i_mitesh]  	Removed '2019-02-03 18:43 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:44:45] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:44:57] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:44:57] [i_mitesh]  	Removed '2019-02-03 18:43 ~ tamannaahspeaks ~ 1060870984' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:45:08] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:45:19] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:45:20] [i_mitesh]  	Removed '2019-02-03 18:43 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:45:26] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:45:38] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:45:38] [i_mitesh]  	Removed '2019-02-03 18:43 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:45:47] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:45:58] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:46:10] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:46:15] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529514  |> following: 96  |> relationship ratio: 68015.77
+INFO [2019-02-03 18:46:16] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:46:22] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:46:27] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139647  |> following: 12  |> relationship ratio: 178303.91
+INFO [2019-02-03 18:46:27] [i_mitesh]  --> Already following 'anushkashettyofficial'!
+
+INFO [2019-02-03 18:46:34] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7727992  |> following: 455  |> relationship ratio: 16984.59
+INFO [2019-02-03 18:46:34] [i_mitesh]  --> Already following 'tamannaahspeaks'!
+
+INFO [2019-02-03 18:46:43] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293474  |> following: 1087  |> relationship ratio: 8549.65
+INFO [2019-02-03 18:46:44] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:46:48] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:46:53] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618124  |> following: 582  |> relationship ratio: 16525.98
+INFO [2019-02-03 18:46:55] [i_mitesh]  --> Followed 'shrutzhaasan'!
+INFO [2019-02-03 18:46:59] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:47:05] [i_mitesh]  User: 'aslisona'  |> followers: 12668651  |> following: 195  |> relationship ratio: 64967.44
+INFO [2019-02-03 18:47:05] [i_mitesh]  --> Already following 'aslisona'!
+
+INFO [2019-02-03 18:47:10] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:47:10] [i_mitesh]  Followed: 3
+INFO [2019-02-03 18:47:10] [i_mitesh]  Already followed: 3
+INFO [2019-02-03 18:47:10] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:47:10] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:47:15] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:47:15] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 3  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:47:15] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:47:26] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:47:26] [i_mitesh]  	Removed '2019-02-03 18:46 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:47:36] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:47:47] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:47:58] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+INFO [2019-02-03 18:48:10] [i_mitesh]  --> Unfollowed 'tamannaahspeaks'!
+INFO [2019-02-03 18:48:18] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+INFO [2019-02-03 18:48:28] [i_mitesh]  --> Unfollowed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:48:29] [i_mitesh]  	Removed '2019-02-03 18:46 ~ kajalaggarwalofficial ~ 225005982' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:48:39] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+INFO [2019-02-03 18:48:50] [i_mitesh]  --> Unfollowed 'shrutzhaasan'!
+INFO [2019-02-03 18:48:50] [i_mitesh]  	Removed '2019-02-03 18:46 ~ shrutzhaasan ~ 490297128' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:48:58] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+INFO [2019-02-03 18:49:09] [i_mitesh]  --> Unfollowed 'aslisona'!
+INFO [2019-02-03 18:49:21] [i_mitesh]  --> Total people unfollowed : 6
+
+INFO [2019-02-03 18:49:26] [i_mitesh]  User: 'priya.p.varrier'  |> followers: 6529541  |> following: 96  |> relationship ratio: 68016.05
+INFO [2019-02-03 18:49:27] [i_mitesh]  --> Followed 'priya.p.varrier'!
+INFO [2019-02-03 18:49:33] [i_mitesh]  Total Follow: 1
+
+INFO [2019-02-03 18:49:38] [i_mitesh]  User: 'anushkashettyofficial'  |> followers: 2139641  |> following: 12  |> relationship ratio: 178303.41
+INFO [2019-02-03 18:49:40] [i_mitesh]  --> Followed 'anushkashettyofficial'!
+INFO [2019-02-03 18:49:44] [i_mitesh]  Total Follow: 2
+
+INFO [2019-02-03 18:49:50] [i_mitesh]  User: 'tamannaahspeaks'  |> followers: 7728005  |> following: 455  |> relationship ratio: 16984.62
+INFO [2019-02-03 18:49:51] [i_mitesh]  --> Followed 'tamannaahspeaks'!
+INFO [2019-02-03 18:49:57] [i_mitesh]  Total Follow: 3
+
+INFO [2019-02-03 18:50:03] [i_mitesh]  User: 'kajalaggarwalofficial'  |> followers: 9293514  |> following: 1087  |> relationship ratio: 8549.69
+INFO [2019-02-03 18:50:04] [i_mitesh]  --> Followed 'kajalaggarwalofficial'!
+INFO [2019-02-03 18:50:11] [i_mitesh]  Total Follow: 4
+
+INFO [2019-02-03 18:50:15] [i_mitesh]  User: 'shrutzhaasan'  |> followers: 9618145  |> following: 582  |> relationship ratio: 16526.02
+INFO [2019-02-03 18:50:16] [i_mitesh]  --> Already following 'shrutzhaasan'!
+
+INFO [2019-02-03 18:50:27] [i_mitesh]  User: 'aslisona'  |> followers: 12668680  |> following: 195  |> relationship ratio: 64967.58
+INFO [2019-02-03 18:50:28] [i_mitesh]  --> Followed 'aslisona'!
+INFO [2019-02-03 18:50:32] [i_mitesh]  Total Follow: 5
+
+INFO [2019-02-03 18:50:33] [i_mitesh]  Finished following by List!
+
+INFO [2019-02-03 18:50:33] [i_mitesh]  Followed: 5
+INFO [2019-02-03 18:50:33] [i_mitesh]  Already followed: 1
+INFO [2019-02-03 18:50:33] [i_mitesh]  Not valid users: 0
+INFO [2019-02-03 18:50:33] [i_mitesh]  Starting to unfollow users..
+INFO [2019-02-03 18:50:38] [i_mitesh]  Unfollowing from the list of pre-defined usernames
+
+INFO [2019-02-03 18:50:38] [i_mitesh]  Total 6 users available to unfollow  ~not found in 'followedPool.csv': 1  |  didn't pass `unfollow_after`: 0
+
+INFO [2019-02-03 18:50:38] [i_mitesh]  Ongoing Unfollow [1/6]: now unfollowing 'priya.p.varrier'...
+INFO [2019-02-03 18:50:50] [i_mitesh]  --> Unfollowed 'priya.p.varrier'!
+INFO [2019-02-03 18:50:50] [i_mitesh]  	Removed '2019-02-03 18:49 ~ priya.p.varrier ~ 3999276825' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:50:58] [i_mitesh]  Ongoing Unfollow [2/6]: now unfollowing 'anushkashettyofficial'...
+INFO [2019-02-03 18:51:09] [i_mitesh]  --> Unfollowed 'anushkashettyofficial'!
+INFO [2019-02-03 18:51:09] [i_mitesh]  	Removed '2019-02-03 18:49 ~ anushkashettyofficial ~ 1805925910' from i_mitesh_followedPool.csv file
+INFO [2019-02-03 18:51:18] [i_mitesh]  Ongoing Unfollow [3/6]: now unfollowing 'tamannaahspeaks'...
+ERROR [2019-02-03 18:51:28] [i_mitesh]  Unfollow loop error:  
+
+INFO [2019-02-03 18:51:28] [i_mitesh]  Ongoing Unfollow [4/6]: now unfollowing 'kajalaggarwalofficial'...
+ERROR [2019-02-03 18:51:28] [i_mitesh]  Unfollow loop error:  ('Connection aborted.', BadStatusLine('No status line received - the server has closed the connection',))
+
+INFO [2019-02-03 18:51:28] [i_mitesh]  Ongoing Unfollow [5/6]: now unfollowing 'shrutzhaasan'...
+ERROR [2019-02-03 18:51:28] [i_mitesh]  Unfollow loop error:  HTTPConnectionPool(host='127.0.0.1', port=37893): Max retries exceeded with url: /session/f2faf71fb4101fee37abdd658d54687a/execute (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f34b15bb710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+
+INFO [2019-02-03 18:51:28] [i_mitesh]  Ongoing Unfollow [6/6]: now unfollowing 'aslisona'...
+ERROR [2019-02-03 18:51:28] [i_mitesh]  Unfollow loop error:  HTTPConnectionPool(host='127.0.0.1', port=37893): Max retries exceeded with url: /session/f2faf71fb4101fee37abdd658d54687a/execute (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f34b15bba50>: Failed to establish a new connection: [Errno 111] Connection refused',))
+
+INFO [2019-02-03 18:51:28] [i_mitesh]  --> Total people unfollowed : 6
+
