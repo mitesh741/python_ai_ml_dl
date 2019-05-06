@@ -1,0 +1,1 @@
+python simple_neural_network.py --dataset kaggle_dogs_vs_cats --model output/simple_neural_network.hdf5
