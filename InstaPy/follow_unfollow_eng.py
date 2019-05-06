@@ -11,7 +11,7 @@ print(time.ctime())
 
 session.set_relationship_bounds(enabled=True,potency_ratio=0.80, delimit_by_numbers=False)
 
-#####################################################################################################################
+###################################################################################################
 accs = ['kyliejenner','selenagomez','cristiano','therock','arianagrande','kimkardashian']
 count = 0
 while (count < 20):     
