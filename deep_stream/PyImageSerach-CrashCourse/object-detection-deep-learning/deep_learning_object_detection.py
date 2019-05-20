@@ -10,6 +10,7 @@ import cv2
 from imutils import paths
 import shutil
 import copy
+import os
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
@@ -119,6 +120,14 @@ for imagePath in paths.list_images(args["images_path"]):
 	if is_object_detected == True:
 		print("Writing XML file : {}".format(new_xml))
 		et.write(new_xml)
+	else: 
+		print("Deleting file: {}".format(imagePath))
+		if os.path.exists(imagePath):
+   			os.remove(imagePath)
+		else:
+			print("The file does not exist")
+
+
 
 	# show the output image
 	if args["show_image"] != "n":
