@@ -1,0 +1,1 @@
+python car-parking-management.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel  --video ~/Videos/women1.mp4
