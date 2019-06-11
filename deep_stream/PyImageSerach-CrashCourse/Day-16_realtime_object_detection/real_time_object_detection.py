@@ -16,8 +16,9 @@ ap.add_argument("-p", "--prototxt", required=True,
 	help="path to Caffe 'deploy' prototxt file")
 ap.add_argument("-m", "--model", required=True,
 	help="path to Caffe pre-trained model")
-ap.add_argument("-c", "--confidence", type=float, default=0.2,
+ap.add_argument("-c", "--confidence", type=float, default=0.4,
 	help="minimum probability to filter weak detections")
+ap.add_argument("-v", "--video",help="path to the (optional) video file")
 args = vars(ap.parse_args())
 
 # initialize the list of class labels MobileNet SSD was trained to
@@ -34,9 +35,13 @@ net = cv2.dnn.readNetFromCaffe(args["prototxt"], args["model"])
 
 # initialize the video stream, allow the cammera sensor to warmup,
 # and initialize the FPS counter
-print("[INFO] starting video stream...")
-vs = VideoStream(src=0).start()
-time.sleep(2.0)
+
+if not args.get("video", False):  # if a video path was not supplied, grab the reference to the webcam
+    vs = VideoStream(src=0).start()
+else:     # otherwise, grab a reference to the video file
+    vs = cv2.VideoCapture(args["video"])
+time.sleep(2.0) # allow the camera or video file to warm up
+
 fps = FPS().start()
 
 # loop over the frames from the video stream
@@ -44,6 +49,9 @@ while True:
 	# grab the frame from the threaded video stream and resize it
 	# to have a maximum width of 400 pixels
 	frame = vs.read()
+	frame = frame[1] if args.get("video", False) else frame
+	if frame is None: # If no frame is acquired then video ended
+		break
 	frame = imutils.resize(frame, width=1080)
 
 	# grab the frame dimensions and convert it to a blob
@@ -69,21 +77,22 @@ while True:
 			# `detections`, then compute the (x, y)-coordinates of
 			# the bounding box for the object
 			idx = int(detections[0, 0, i, 1])
-			box = detections[0, 0, i, 3:7] * np.array([w, h, w, h])
-			(startX, startY, endX, endY) = box.astype("int")
-
-			# draw the prediction on the frame
-			label = "{}: {:.2f}%".format(CLASSES[idx],
-				confidence * 100)
-			cv2.rectangle(frame, (startX, startY), (endX, endY),
-				COLORS[idx], 2)
-			y = startY - 15 if startY - 15 > 15 else startY + 15
-			cv2.putText(frame, label, (startX, y),
-				cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
+			if idx == 7:
+				box = detections[0, 0, i, 3:7] * np.array([w, h, w, h])
+				(startX, startY, endX, endY) = box.astype("int")
+	
+				# draw the prediction on the frame
+				label = "{}: {:.2f}%".format(CLASSES[idx],
+					confidence * 100)
+				cv2.rectangle(frame, (startX, startY), (endX, endY),
+					COLORS[idx], 2)
+				y = startY - 15 if startY - 15 > 15 else startY + 15
+				cv2.putText(frame, label, (startX, y),
+					cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
 
 	# show the output frame
 	cv2.imshow("Frame", frame)
-	key = cv2.waitKey(1) & 0xFF
+	key = cv2.waitKey(25) & 0xFF
 
 	# if the `q` key was pressed, break from the loop
 	if key == ord("q"):
